@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Price Prediction</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+            padding: 20px;
+            font-family: 'Arial', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .container {
+            max-width: 800px;
+            padding: 30px;
+            background-color: #ffffff;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+            animation: fadeIn 1s ease;
+        }
+        h1 {
+            margin-bottom: 30px;
+            text-align: center;
+            color: #343a40;
+            font-size: 2.5rem;
+            font-weight: 600;
+        }
+        .form-group label {
+            font-weight: bold;
+            color: #495057;
+            font-size: 1.1rem;
+            display: block;
+            margin-bottom: 8px;
+        }
+        .form-control {
+            border-radius: 10px;
+            padding: 12px;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+            background: #f9f9f9;
+            border: 1px solid #ced4da;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transform: scale(1);
+            position: relative;
+        }
+        .form-control:hover {
+            background: #eaeaea;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+        }
+        .form-control:focus {
+            border-color: #007bff;
+            background: #ffffff;
+            box-shadow: 0 6px 12px rgba(0, 123, 255, 0.4);
+            transform: scale(1.02);
+        }
+        .form-check-inline {
+            margin-right: 15px;
+            display: flex;
+            align-items: center;
+            padding: 8px 12px;
+            border-radius: 8px;
+            background-color: #f8f9fa;
+            transition: background-color 0.3s, transform 0.2s;
+            box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+            cursor: pointer;
+        }
+        .form-check-inline:hover {
+            background-color: #007bff;
+            color: white;
+            transform: scale(1.05);
+        }
+        .form-check-input {
+            margin-top: 0.3rem;
+            margin-right: 0.5rem;
+            accent-color: #007bff;
+            width: 1.5rem;
+            height: 1.5rem;
+        }
+        button[type="submit"] {
+            background-color: #007bff;
+            border: none;
+            border-radius: 8px;
+            transition: background-color 0.3s, transform 0.2s;
+            font-size: 1.2rem;
+            padding: 10px 20px;
+            width: 100%;
+            font-weight: 600;
+        }
+        button[type="submit"]:hover {
+            background-color: #0056b3;
+            transform: scale(1.05);
+        }
+        .result {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #d4edda;
+            border: 1px solid #c3e6cb;
+            border-radius: 5px;
+            animation: slideIn 1s;
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        @keyframes slideIn {
+            from { transform: translateY(-20px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Car Price Prediction</h1>
+        <form method="post" class="mb-4">
+            {% csrf_token %}
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    {{ form.present_price.label_tag }}
+                    {{ form.present_price }}
+                    <small class="form-text text-muted">Enter the present price of the car.</small>
+                </div>
+                <div class="form-group col-md-6">
+                    {{ form.kms_driven.label_tag }}
+                    {{ form.kms_driven }}
+                    <small class="form-text text-muted">Enter the kilometers driven by the car.</small>
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    {{ form.age.label_tag }}
+                    {{ form.age }}
+                    <small class="form-text text-muted">Enter the age of the car.</small>
+                </div>
+            </div>
+
+            <!-- Fuel Type -->
+            <div class="form-group">
+                <label>Fuel Type</label>
+                <div>
+                    {% for choice in form.fuel_type %}
+                        <div class="form-check form-check-inline">
+                            {{ choice.tag }}
+                            {{ choice.choice_label }}
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <!-- Seller Type -->
+            <div class="form-group">
+                <label>Seller Type</label>
+                <div>
+                    {% for choice in form.seller_type %}
+                        <div class="form-check form-check-inline">
+                            {{ choice.tag }}
+                            {{ choice.choice_label }}
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <!-- Transmission -->
+            <div class="form-group">
+                <label>Transmission</label>
+                <div>
+                    {% for choice in form.transmission %}
+                        <div class="form-check form-check-inline">
+                            {{ choice.tag }}
+                            {{ choice.choice_label }}
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-lg">Predict</button>
+        </form>
+
+        {% if result %}
+            <div class="result">
+                <h2>Car Purchase Amount: <strong>{{ result.0 }}</strong></h2>
+            </div>
+        {% endif %}
+    </div>
+
+    <!-- Bootstrap JS and dependencies (jQuery and Popper.js) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

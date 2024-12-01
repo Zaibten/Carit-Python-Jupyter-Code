@@ -1,0 +1,787 @@
+Name,PriceInText,Price,City,Year,Distance,Fuel,HorsePower,Transmission,Certified,ManagedBy,Distance2
+Proton Saga  2022 1.3L Ace A/T,PKR 37.5 lacs,3750000,Karachi,2022,"2,017km",Petrol,1299cc,Automatic,Certified,PakWheels,2017
+Suzuki Wagon R  2014 VXL,PKR 20.5 lacs,2050000,Karachi,2014,"128,551km",Petrol,1000cc,Manual,Not Certified,PakWheels,128551
+Toyota C-HR  2019 G-LED,PKR 87 lacs,8700000,Karachi,2019,"32,000km",Hybrid,1800cc,Automatic,Not Certified,Customer,32000
+Chevrolet Silverado  2016 LTZ,PKR 1.5 crore,15000000,Lahore,2016,"100,000km",Petrol,5300cc,Automatic,Not Certified,Customer,100000
+Tesla Model 3  2021 Standard Range Plus,PKR 1.5 crore,15000000,Lahore,2021,"11,000km",Electric,55.0kWh,Automatic,Not Certified,Customer,11000
+KIA Sportage  2020 AWD,PKR 64 lacs,6400000,Multan,2020,"65,455km",Petrol,2000cc,Automatic,Not Certified,Customer,65455
+Suzuki Swift  2022 GLX CVT,PKR 43.5 lacs,4350000,Karachi,2022,"23,000km",Petrol,1200cc,Automatic,Not Certified,Customer,23000
+Toyota Premio  2009 X EX Package 1.8,PKR 57 lacs,5700000,Islamabad,2009,"66,000km",Petrol,1800cc,Automatic,Not Certified,Customer,66000
+Toyota Corolla  2017 GLi Automatic 1.3 VVTi,PKR 34.24 lacs,3424000,Karachi,2017,"79,153km",Petrol,1300cc,Automatic,Not Certified,PakWheels,79153
+Toyota Aqua  2014 S,PKR 37.95 lacs,3795000,Lahore,2014,"132,000km",Hybrid,1500cc,Automatic,Not Certified,Customer,132000
+KIA Stonic  2023 EX+,PKR 49 lacs,4900000,Karachi,2023,"22,000km",Petrol,1400cc,Automatic,Not Certified,Customer,22000
+Suzuki Mehran  2009 VXR,PKR 9.35 lacs,935000,Islamabad,2009,"36,000km",Petrol,800cc,Manual,Not Certified,Customer,36000
+Honda Civic  2022 1.5 VTEC Turbo Oriel,PKR 76 lacs,7600000,Haripur,2022,"44,000km",Petrol,1500cc,Automatic,Not Certified,Customer,44000
+Toyota Corolla  2009 XLi VVTi,PKR 18 lacs,1800000,Faisalabad,2009,"300,000km",Petrol,1300cc,Manual,Not Certified,Customer,300000
+Peugeot 2008  2023 Active,PKR 55.5 lacs,5550000,Karachi,2023,"17,390km",Petrol,1200cc,Automatic,Not Certified,Customer,17390
+Toyota Vitz  2008 F 1.0,PKR 20.8 lacs,2080000,Karachi,2008,"108,000km",Petrol,1000cc,Automatic,Not Certified,Customer,108000
+Honda Fit  2020 1.5 EXECUTIVE,PKR 82 lacs,8200000,Lahore,2020,"16,000km",Petrol,1500cc,Automatic,Not Certified,Customer,16000
+Daihatsu Taft  2020 ,PKR 40.5 lacs,4050000,Karachi,2020,"33,000km",Petrol,660cc,Automatic,Not Certified,Customer,33000
+Toyota Land Cruiser  1982 ,PKR 15.5 lacs,1550000,Khanpur,1982,"500,000km",Petrol,3400cc,Automatic,Not Certified,Customer,500000
+Suzuki Wagon R  2016 VXL,PKR 17.5 lacs,1750000,Multan,2016,"191,000km",Petrol,1000cc,Manual,Not Certified,Customer,191000
+Toyota Corolla  1995 ,PKR 15.5 lacs,1550000,Rawalakot,1995,"500,000km",Petrol,1600cc,Manual,Not Certified,Customer,500000
+Suzuki Alto  2010 VX,PKR 8.2 lacs,819999,Quetta,2010,"99,000km",Petrol,800cc,Manual,Not Certified,Customer,99000
+Toyota Vitz  2012 F 1.0,PKR 28 lacs,2800000,Faisalabad,2012,"75,109km",Petrol,1000cc,Automatic,Certified,PakWheels,75109
+Honda Civic  2004 VTi Oriel 1.6,PKR 17.5 lacs,1750000,Islamabad,2004,"103,000km",Petrol,1600cc,Manual,Not Certified,Customer,103000
+Suzuki Mehran  2018 VXR Euro II,PKR 14.7 lacs,1470000,Wahcantt,2018,"82,500km",Petrol,796cc,Manual,Not Certified,Customer,82500
+Suzuki Alto  2005 VXR,PKR 6.2 lacs,620000,Karachi,2005,"100,000km",Petrol,1000cc,Manual,Not Certified,Customer,100000
+Honda Civic Eagle Eye 2005 VTi Oriel 1.6,PKR 16.35 lacs,1635000,Lahore,2005,"146,000km",Petrol,1600cc,Manual,Not Certified,Customer,146000
+Suzuki Mehran  1998 VX,PKR 4 lacs,400000,Islamabad,1998,"50,000km",Petrol,800cc,Manual,Not Certified,Customer,50000
+Toyota Fortuner  2017 2.7 VVTi,PKR 1.15 crore,11500000,Gujranwala,2017,"80,000km",Petrol,2700cc,Automatic,Not Certified,Customer,80000
+Honda Civic  2020 Oriel 1.8 i-VTEC CVT,PKR 68 lacs,6800000,Islamabad,2020,"33,474km",Petrol,1800cc,Automatic,Not Certified,Customer,33474
+Suzuki Mehran  2013 VXR Euro II,PKR 8.05 lacs,805000,Karachi,2013,"75,000km",Petrol,796cc,Manual,Not Certified,Customer,75000
+Toyota Corolla 9th (E120) Generation 2004 SE Saloon Automatic,PKR 19.7 lacs,1970000,Rawalpindi,2004,"150,000km",Petrol,1600cc,Automatic,Not Certified,Customer,150000
+Honda City  2015 1.3 i-VTEC Prosmatec,PKR 29.9 lacs,2990000,Lahore,2015,"160,000km",Petrol,1300cc,Automatic,Not Certified,Customer,160000
+Suzuki Mehran  2017 VXR Euro II,PKR 12.8 lacs,1280000,Khushab,2017,11km,Petrol,796cc,Manual,Not Certified,Customer,11
+Toyota Land Cruiser  2006 Cygnus,PKR 1.26 crore,12600000,Lahore,2006,"126,000km",Petrol,4700cc,Automatic,Not Certified,Customer,126000
+Honda Vezel  2019 Hybrid Z Honda Sensing ,PKR 78 lacs,7800000,Islamabad,2019,"75,000km",Hybrid,1500cc,Automatic,Not Certified,Customer,75000
+Honda City 5th (GM2) Generation 2010 1.3 i-VTEC Prosmatec,PKR 24.5 lacs,2450000,Karachi,2010,"137,390km",Petrol,1300cc,Automatic,Not Certified,PakWheels,137390
+Ford F 150  2017 Limited Edition,PKR 2.25 crore,22500000,Islamabad,2017,"80,000km",Petrol,3496cc,Automatic,Not Certified,Customer,80000
+Toyota C-HR  2019 S-LED,PKR 90 lacs,9000000,Islamabad,2019,"29,300km",Hybrid,1800cc,Automatic,Not Certified,Customer,29300
+Honda Freed  2019 + Hybrid G Honda Sensing,PKR 63 lacs,6300000,Karachi,2019,"121,100km",Hybrid,1500cc,Automatic,Not Certified,Customer,121100
+Toyota Vitz  2013 F 1.0,PKR 25.5 lacs,2550000,Karachi,2013,"175,720km",Petrol,1000cc,Automatic,Not Certified,PakWheels,175720
+Toyota C-HR  2018 S-LED,PKR 72 lacs,7200000,Karachi,2018,"169,370km",Hybrid,1800cc,Automatic,Certified,PakWheels,169370
+Toyota Prado  2024 TX 2.7L,PKR 7.05 crore,70500000,Islamabad,2024,60km,Petrol,2700cc,Automatic,Not Certified,Customer,60
+Toyota Land Cruiser  2011 AX G Selection,PKR 2.15 crore,21500000,Lahore,2011,"212,000km",Petrol,4600cc,Automatic,Not Certified,Customer,212000
+Suzuki Mehran  2018 VXR Euro II,PKR 15.5 lacs,1550000,Lahore,2018,"75,000km",Petrol,796cc,Manual,Not Certified,Customer,75000
+Toyota Corolla  1997 ,PKR 10.7 lacs,1070000,Peshawar,1997,"100,000km",Petrol,1300cc,Manual,Not Certified,Customer,100000
+Daihatsu Mira  2022 L,PKR 36.5 lacs,3650000,Karachi,2022,"6,701km",Petrol,660cc,Automatic,Not Certified,Customer,6701
+Toyota Land Cruiser  2009 AX G Selection,PKR 1.95 crore,19500000,Lahore,2009,"177,000km",Petrol,4600cc,Automatic,Not Certified,Customer,177000
+Honda N Wgn  2020 G Turbo ,PKR 39 lacs,3900000,Sialkot,2020,"12,000km",Petrol,660cc,Automatic,Not Certified,Customer,12000
+Daihatsu Cuore  2006 ,PKR 6.8 lacs,680000,Karachi,2006,"500,000km",Petrol,800cc,Manual,Not Certified,Customer,500000
+Honda Freed  2019 Hybrid G Honda Sensing,PKR 58.5 lacs,5850000,Islamabad,2019,"21,000km",Petrol,1500cc,Automatic,Not Certified,Customer,21000
+Suzuki Wagon R  2018 VXL,PKR 23 lacs,2300000,Lahore,2018,"52,000km",Petrol,1000cc,Manual,Not Certified,Customer,52000
+Toyota Yaris  2023 GLI CVT 1.3,PKR 44.35 lacs,4435000,Karachi,2023,"12,000km",Petrol,1300cc,Automatic,Not Certified,Customer,12000
+Suzuki Alto  2012 VX (CNG),PKR 12.45 lacs,1245000,Peshawar,2012,"86,000km",Petrol,1000cc,Manual,Not Certified,Customer,86000
+Suzuki Cultus  2019 VXR,PKR 24.75 lacs,2475000,Karachi,2019,"80,230km",Petrol,1000cc,Manual,Not Certified,Customer,80230
+Honda City  2007 i-DSI,PKR 18 lacs,1800000,Multan,2007,"249,000km",Petrol,1300cc,Manual,Not Certified,Customer,249000
+Honda City 6th Generation 2021 1.2L CVT,PKR 40.9 lacs,4090000,Lahore,2021,"94,000km",Petrol,1200cc,Automatic,Not Certified,Customer,94000
+Suzuki Alto  2011 VXR,PKR 12.9 lacs,1290000,Sialkot,2011,"59,000km",Petrol,1000cc,Manual,Not Certified,Customer,59000
+Honda Civic  2008 MX (Hybrid),PKR 27 lacs,2700000,Peshawar,2008,"150,000km",Petrol,1300cc,Automatic,Not Certified,Customer,150000
+Honda Civic  1984 ,PKR 5 lacs,500000,Wahcantt,1984,"100,000km",Petrol,1700cc,Manual,Not Certified,Customer,100000
+Suzuki Hustler  2020 G,PKR 36.8 lacs,3679999,Peshawar,2020,"55,000km",Hybrid,660cc,Automatic,Not Certified,Customer,55000
+Toyota Prado  2011 TX 2.7,PKR 1.55 crore,15500000,Faisalabad,2011,"98,000km",Petrol,2700cc,Automatic,Not Certified,Customer,98000
+Suzuki Mehran  2015 VXR Euro II,PKR 11.5 lacs,1150000,Kabirwala,2015,"89,500km",Petrol,800cc,Manual,Not Certified,Customer,89500
+Suzuki Mehran  1993 VX,PKR 3.6 lacs,360000,Islamabad,1993,"44,902km",Petrol,800cc,Manual,Not Certified,Customer,44902
+Suzuki Margalla  1996 GL,PKR 5.2 lacs,520000,Taxila,1996,"70,000km",Petrol,1300cc,Manual,Not Certified,Customer,70000
+Suzuki Alto  2006 VXR,PKR 7.8 lacs,780000,Rawalpindi,2006,"123,456km",Petrol,1000cc,Manual,Not Certified,Customer,123456
+Suzuki Cultus  2016 Limited Edition,PKR 16.45 lacs,1645000,Karachi,2016,"85,000km",Petrol,1000cc,Manual,Not Certified,Customer,85000
+Honda BR-V  2018 i-VTEC,PKR 45 lacs,4500000,Rawalpindi,2018,"55,000km",Petrol,1500cc,Automatic,Not Certified,Customer,55000
+Toyota Prius Alpha  2011 ,PKR 39.95 lacs,3995000,Karachi,2011,"138,000km",Hybrid,1800cc,Automatic,Not Certified,Customer,138000
+Toyota Prado  2016 TX L Package 2.7,PKR 2.1 crore,21000000,Lahore,2016,"63,000km",Petrol,2700cc,Automatic,Not Certified,Customer,63000
+Toyota Corolla  2015 GLi Automatic 1.3 VVTi,PKR 35 lacs,3500000,Karachi,2015,"105,716km",Petrol,1300cc,Automatic,Not Certified,PakWheels,105716
+Mercedes Benz C Class  2021 C200,PKR 3.2 crore,32000000,Islamabad,2021,"5,000km",Petrol,1496cc,Automatic,Not Certified,Customer,5000
+Toyota Land Cruiser  2010 AX G Selection,PKR 2.05 crore,20500000,Karachi,2010,"97,000km",Petrol,4600cc,Automatic,Not Certified,Customer,97000
+Suzuki Wagon R  2012 FX,PKR 21 lacs,2100000,Karachi,2012,"75,201km",Petrol,660cc,Automatic,Certified,PakWheels,75201
+Hyundai Santro  2004 Exec,PKR 8.8 lacs,880000,Karachi,2004,"151,387km",Petrol,1000cc,Manual,Not Certified,PakWheels,151387
+Daihatsu Mira  2006 X,PKR 14.5 lacs,1450000,Karachi,2006,"147,643km",Petrol,660cc,Automatic,Certified,PakWheels,147643
+Toyota Prado 3rd (J120) Generation 2008 TX 2.7,PKR 78 lacs,7800000,Karachi,2008,"127,572km",Petrol,2700cc,Automatic,Certified,PakWheels,127572
+Toyota Yaris Hatchback  2021 G 1.0,PKR 43 lacs,4300000,Karachi,2021,"97,410km",Petrol,996cc,Automatic,Certified,PakWheels,97410
+Toyota Corolla  2019 Altis Grande CVT-i 1.8,PKR 58 lacs,5800000,Peshawar,2019,"97,000km",Petrol,1800cc,Automatic,Not Certified,Customer,97000
+Toyota Vitz  2012 F M Package 1.0,PKR 26.5 lacs,2650000,Karachi,2012,"123,456km",Petrol,1000cc,Automatic,Not Certified,Customer,123456
+Suzuki Wagon R  2018 VXR,PKR 20 lacs,2000000,Karachi,2018,"77,000km",Petrol,1000cc,Manual,Not Certified,Customer,77000
+Suzuki Cultus  2022 VXL,PKR 31.25 lacs,3125000,Lahore,2022,"22,000km",Petrol,1000cc,Manual,Not Certified,Customer,22000
+Suzuki Cultus  2007 ,PKR 11 lacs,1100000,Rawalpindi,2007,"123,456km",Petrol,1000cc,Manual,Not Certified,Customer,123456
+Toyota Corolla  2019 GLi Automatic 1.3 VVTi,PKR 39 lacs,3900000,JalalpurJattan,2019,"130,000km",Petrol,1300cc,Automatic,Not Certified,Customer,130000
+Honda Civic  2018 Oriel 1.8 i-VTEC CVT,PKR 46.9 lacs,4690000,Karachi,2018,"48,712km",Petrol,1800cc,Automatic,Not Certified,Customer,48712
+Toyota Prado 3rd (J120) Generation 2003 TZ 3.4,PKR 79.8 lacs,7980000,Lahore,2003,"113,000km",Petrol,3400cc,Automatic,Not Certified,Customer,113000
+Suzuki Mehran  1990 VX,PKR 3.15 lacs,315000,Hyderabad,1990,60km,Petrol,800cc,Manual,Not Certified,Customer,60
+Honda City 5th (GM2) Generation 2017 1.5 i-VTEC,PKR 35.5 lacs,3550000,Multan,2017,"87,000km",Petrol,1500cc,Manual,Not Certified,Customer,87000
+Suzuki Swift  2020 DLX Automatic 1.3 Navigation,PKR 31.85 lacs,3185000,Lahore,2020,"59,000km",Petrol,1300cc,Automatic,Not Certified,Customer,59000
+Honda City  2022 1.5L CVT,PKR 48.5 lacs,4850000,Lahore,2022,"19,000km",Petrol,1500cc,Automatic,Not Certified,Customer,19000
+Daihatsu Mira  2016 ES,PKR 21.5 lacs,2150000,Lahore,2016,"63,000km",Petrol,660cc,Automatic,Not Certified,Customer,63000
+Nissan Dayz Highway Star  2014 ,PKR 24 lacs,2400000,Karachi,2014,"77,908km",Petrol,660cc,Automatic,Certified,PakWheels,77908
+Toyota Yaris Hatchback  2021 ,PKR 44.9 lacs,4490000,Lahore,2021,"88,000km",Petrol,1000cc,Automatic,Not Certified,Customer,88000
+Toyota Yaris  2021 ATIV CVT 1.3,PKR 40 lacs,4000000,Chiniot,2021,"50,000km",Petrol,1300cc,Automatic,Not Certified,Customer,50000
+Toyota Prius  2007 G Touring Selection 1.5,PKR 26.5 lacs,2650000,Karachi,2007,"141,000km",Hybrid,1500cc,Automatic,Not Certified,Customer,141000
+Toyota Belta  2008 X Business A Package 1.0,PKR 26 lacs,2600000,Karachi,2008,"97,000km",Petrol,1000cc,Automatic,Not Certified,Customer,97000
+Honda Civic Rebirth 2014 VTi Prosmatec 1.8 i-VTEC,PKR 35.25 lacs,3525000,Islamabad,2014,"190,000km",Petrol,1800cc,Automatic,Not Certified,Customer,190000
+Honda Civic EG 1995 EX,PKR 7.8 lacs,780000,Karachi,1995,"50,000km",Petrol,1500cc,Manual,Not Certified,Customer,50000
+Toyota 86  1986 ,PKR 9.7 lacs,969999,Islamabad,1986,"12,560km",Petrol,1300cc,Automatic,Not Certified,Customer,12560
+Suzuki Alto  2009 VXR,PKR 9.95 lacs,994999,PindiBhattian,2009,"75,000km",Petrol,1000cc,Manual,Not Certified,Customer,75000
+Toyota Prius  2007 G Touring Selection 1.5,PKR 30 lacs,3000000,Lahore,2007,"200,240km",Hybrid,1500cc,Automatic,Not Certified,Customer,200240
+Honda City  2000 EXi S Automatic,PKR 11.8 lacs,1180000,Khanewal,2000,"170,000km",Petrol,1500cc,Automatic,Not Certified,Customer,170000
+Honda Civic  2005 EXi,PKR 15.25 lacs,1525000,Islamabad,2005,"200,000km",Petrol,1500cc,Manual,Not Certified,Customer,200000
+Honda Life  2011 G Smart Plus,PKR 19.5 lacs,1950000,Lahore,2011,"167,868km",Petrol,660cc,Automatic,Certified,PakWheels,167868
+Hyundai Tucson  2022 FWD A/T GLS Sport,PKR 71.5 lacs,7150000,Lahore,2022,"83,972km",Petrol,2000cc,Automatic,Not Certified,PakWheels,83972
+Honda Civic  2018 Oriel 1.8 i-VTEC CVT,PKR 65 lacs,6500000,Karachi,2018,"7,270km",Petrol,1800cc,Automatic,Certified,PakWheels,7270
+Daihatsu Mira  2021 ,PKR 39 lacs,3900000,Karachi,2021,"26,510km",Petrol,660cc,Automatic,Not Certified,Customer,26510
+Toyota C-HR  2019 ,PKR 96 lacs,9600000,Karachi,2019,"30,019km",Hybrid,1800cc,Automatic,Not Certified,Customer,30019
+Toyota C-HR  2019 ,PKR 1 crore,10000000,Karachi,2019,"9,902km",Hybrid,1800cc,Automatic,Not Certified,Customer,9902
+KIA Sportage  2022 FWD,PKR 68 lacs,6800000,Karachi,2022,"34,825km",Petrol,2000cc,Automatic,Certified,PakWheels,34825
+Proton Saga  2021 1.3L R3 M/T,PKR 30 lacs,3000000,Karachi,2021,"47,430km",Petrol,1300cc,Manual,Certified,PakWheels,47430
+Suzuki Alto  2023 Hybrid X,PKR 42 lacs,4200000,Lahore,2023,"2,206km",Hybrid,660cc,Automatic,Certified,PakWheels,2206
+Toyota Yaris  2021 ATIV CVT 1.3,PKR 41.5 lacs,4150000,Karachi,2021,"80,172km",Petrol,1300cc,Automatic,Certified,PakWheels,80172
+Honda Civic  2020 1.8 i-VTEC CVT,PKR 57 lacs,5700000,Lahore,2020,"43,091km",Petrol,1800cc,Automatic,Not Certified,PakWheels,43091
+Changan Oshan X7  2022 FutureSense,PKR 82.5 lacs,8250000,Lahore,2022,"17,725km",Petrol,1500cc,Automatic,Not Certified,PakWheels,17725
+Toyota Yaris  2022 ATIV MT 1.3,PKR 44.5 lacs,4450000,Lahore,2022,172km,Petrol,1300cc,Manual,Not Certified,Customer,172
+Toyota Land Cruiser  2013 ZX,PKR 3.55 crore,35500000,Islamabad,2013,"110,000km",Petrol,4600cc,Automatic,Not Certified,Customer,110000
+Suzuki Wagon R  2020 Hybrid FX,PKR 34.5 lacs,3450000,Karachi,2020,"61,000km",Hybrid,660cc,Automatic,Not Certified,Customer,61000
+Suzuki Alto  2021 L,PKR 31.5 lacs,3150000,Rawalpindi,2021,"32,800km",Petrol,660cc,Automatic,Not Certified,Customer,32800
+Nissan Dayz  2021 X,PKR 36.75 lacs,3675000,Lahore,2021,"31,000km",Petrol,660cc,Automatic,Not Certified,Customer,31000
+Suzuki Cultus  2009 VXRi (CNG),PKR 8.9 lacs,890000,Karachi,2009,"12,345km",Petrol,1000cc,Manual,Not Certified,Customer,12345
+Honda City  2001 EXi,PKR 12 lacs,1200000,Faisalabad,2001,"123,456km",Petrol,1300cc,Manual,Not Certified,Customer,123456
+Toyota Corolla  2012 GLi Automatic 1.6 VVTi,PKR 31.2 lacs,3120000,Lahore,2012,"137,000km",Petrol,1600cc,Automatic,Not Certified,Customer,137000
+Suzuki Mehran  1999 VX,PKR 8.8 lacs,880000,Rawalpindi,1999,"7,596km",Petrol,800cc,Manual,Not Certified,Customer,7596
+Toyota Vitz  2009 iLL 1.0,PKR 22 lacs,2200000,Faisalabad,2009,"107,500km",Petrol,1000cc,Automatic,Not Certified,Customer,107500
+Suzuki Mehran  2015 VXR Euro II,PKR 9.9 lacs,990000,Multan,2015,"12,345km",Petrol,800cc,Manual,Not Certified,Customer,12345
+Toyota Passo  2021 Moda G,PKR 45.5 lacs,4550000,Karachi,2021,"43,434km",Petrol,1000cc,Automatic,Certified,PakWheels,43434
+Suzuki Alto  2021 VXL AGS,PKR 27 lacs,2700000,Bahawalpur,2021,"33,500km",Petrol,660cc,Automatic,Not Certified,Customer,33500
+Honda City  2017 Aspire Prosmatec 1.3 i-VTEC,PKR 36.5 lacs,3650000,Gujranwala,2017,"97,000km",Petrol,1300cc,Automatic,Not Certified,Customer,97000
+Toyota Corolla  2010 GLi 1.3 VVTi,PKR 26 lacs,2600000,Sargodha,2010,"155,000km",Petrol,1300cc,Manual,Not Certified,Customer,155000
+Toyota Aqua  2012 S,PKR 31.5 lacs,3150000,Karachi,2012,"122,000km",Hybrid,1500cc,Automatic,Not Certified,Customer,122000
+Toyota Corolla  2019 Altis Automatic 1.6,PKR 49 lacs,4900000,Karachi,2019,"65,142km",Petrol,1600cc,Automatic,Not Certified,Customer,65142
+Honda Civic  2016 Turbo 1.5 VTEC CVT,PKR 41.75 lacs,4175000,Karachi,2016,"61,000km",Petrol,1500cc,Automatic,Not Certified,Customer,61000
+Suzuki Cultus  2006 VXR (CNG),PKR 8 lacs,800000,Peshawar,2006,"50,000km",Petrol,1000cc,Manual,Not Certified,Customer,50000
+Toyota Vitz  2015 Jewela 1.0,PKR 35.5 lacs,3550000,Multan,2015,"60,000km",Petrol,1000cc,Automatic,Not Certified,Customer,60000
+Honda Civic  2018 Oriel 1.8 i-VTEC CVT,PKR 55 lacs,5500000,Chowhasaidanshah,2018,"85,000km",Petrol,1800cc,Automatic,Not Certified,Customer,85000
+Honda Civic  2005 EXi,PKR 15.9 lacs,1590000,Islamabad,2005,"189,000km",Petrol,1500cc,Manual,Not Certified,Customer,189000
+Toyota Corolla  2023 Altis Grande X CVT-i 1.8 Black Interior,PKR 71.5 lacs,7150000,Lahore,2023,"32,000km",Petrol,1800cc,Automatic,Not Certified,Customer,32000
+KIA Sportage  2003 2.0 LX 4x4,PKR 19 lacs,1900000,Faisalabad,2003,"95,000km",Petrol,2000cc,Manual,Not Certified,Customer,95000
+Toyota Corolla  2020 Altis Automatic 1.6,PKR 56 lacs,5600000,Faisalabad,2020,"9,030km",Petrol,1600cc,Automatic,Not Certified,PakWheels,9030
+Honda N Wgn  2021 G,PKR 33.8 lacs,3379999,Karachi,2021,"9,200km",Petrol,660cc,Automatic,Not Certified,PakWheels,9200
+Honda Accord  2005 VTi 2.4,PKR 26 lacs,2600000,Karachi,2005,"152,029km",Petrol,2400cc,Automatic,Not Certified,PakWheels,152029
+Toyota Vitz  2015 F M Package 1.0,PKR 32 lacs,3200000,Lahore,2015,"137,754km",Petrol,1000cc,Automatic,Not Certified,PakWheels,137754
+Suzuki Cultus  2001 VXR,PKR 8.3 lacs,830000,Lahore,2001,"94,192km",Petrol,1000cc,Manual,Not Certified,PakWheels,94192
+Haval Jolion  2021 Top,PKR 75 lacs,7500000,Karachi,2021,"34,591km",Petrol,1500cc,Automatic,Certified,PakWheels,34591
+Toyota Fortuner  2014 TRD Sportivo,PKR 60 lacs,6000000,Karachi,2014,"141,413km",Petrol,2700cc,Automatic,Not Certified,PakWheels,141413
+Toyota Passo  2014 X,PKR 27 lacs,2700000,Lahore,2014,"123,901km",Petrol,1000cc,Automatic,Not Certified,PakWheels,123901
+Suzuki Cultus  2018 VXR,PKR 23 lacs,2300000,Lahore,2018,"77,062km",Petrol,1000cc,Manual,Not Certified,PakWheels,77062
+Haval H6  2023 2.0T AWD,PKR 1.02 crore,10200000,Lahore,2023,"19,632km",Petrol,2000cc,Automatic,Not Certified,PakWheels,19632
+Toyota Sienta  2019 X,PKR 56 lacs,5600000,Karachi,2019,"198,541km",Hybrid,1500cc,Automatic,Certified,PakWheels,198541
+Suzuki Cultus  2011 VXRi,PKR 13.25 lacs,1325000,Lahore,2011,"43,251km",Petrol,1000cc,Manual,Not Certified,PakWheels,43251
+Toyota Corolla  2016 Altis 1.8,PKR 32 lacs,3200000,Karachi,2016,"197,016km",Petrol,1800cc,Manual,Not Certified,PakWheels,197016
+Toyota Corolla  2016 GLi 1.3 VVTi,PKR 38 lacs,3800000,Multan,2016,"70,000km",Petrol,1300cc,Manual,Not Certified,Customer,70000
+Honda City  2011 1.3 i-VTEC,PKR 24.8 lacs,2480000,Multan,2011,"127,669km",Petrol,1300cc,Manual,Not Certified,Customer,127669
+Honda City  2015 Aspire 1.3 i-VTEC,PKR 26.9 lacs,2690000,Karachi,2015,"98,000km",Petrol,1300cc,Manual,Not Certified,Customer,98000
+Honda Civic  2008 VTi Prosmatec 1.8 i-VTEC,PKR 20 lacs,2000000,Multan,2008,"80,000km",Petrol,1800cc,Automatic,Not Certified,Customer,80000
+Honda Civic  2017 Oriel 1.8 i-VTEC CVT,PKR 44 lacs,4400000,Lahore,2017,"80,000km",Petrol,1800cc,Automatic,Not Certified,Customer,80000
+Toyota Corolla  2009 GLi 1.3 VVTi,PKR 23.5 lacs,2350000,Multan,2009,"135,000km",Petrol,1300cc,Manual,Not Certified,Customer,135000
+Nissan Note  2021 e-Power S,PKR 58 lacs,5800000,Islamabad,2021,"50,000km",Hybrid,1200cc,Automatic,Not Certified,Customer,50000
+Toyota Passo  2012 X,PKR 26.5 lacs,2650000,Islamabad,2012,"75,000km",Petrol,1000cc,Automatic,Not Certified,Customer,75000
+Changan Alsvin  2022 1.5L DCT Lumiere,PKR 40 lacs,4000000,Khanewal,2022,"25,000km",Petrol,1500cc,Automatic,Not Certified,Customer,25000
+KIA Sportage  2019 AWD,PKR 63 lacs,6300000,Karachi,2019,"42,000km",Petrol,2000cc,Automatic,Not Certified,Customer,42000
+Honda City  2006 i-DSI Vario,PKR 16.7 lacs,1670000,Karachi,2006,"100,000km",Petrol,1300cc,Automatic,Not Certified,Customer,100000
+Mercedes Benz E Class  2004 E200,PKR 43.5 lacs,4350000,Islamabad,2004,"132,748km",Petrol,1800cc,Automatic,Not Certified,Customer,132748
+Suzuki Liana  2008 RXi,PKR 11.8 lacs,1180000,Lahore,2008,"166,039km",Petrol,1300cc,Manual,Not Certified,Customer,166039
+Suzuki Carry  2001 ,PKR 7 lacs,700000,Mansehra,2001,"78,748km",Petrol,800cc,Manual,Not Certified,Customer,78748
+Honda Civic  2017 Oriel 1.8 i-VTEC CVT,PKR 46 lacs,4600000,Karachi,2017,"62,000km",Petrol,1800cc,Automatic,Not Certified,Customer,62000
+Suzuki Mehran  2012 VXR,PKR 6.5 lacs,650000,Rawalpindi,2012,"97,570km",Petrol,800cc,Manual,Not Certified,Customer,97570
+Toyota Aqua  2015 G,PKR 45 lacs,4500000,Rawalpindi,2015,"130,095km",Hybrid,1500cc,Automatic,Not Certified,Customer,130095
+Toyota C-HR  2019 G Nero,PKR 82.75 lacs,8275000,Karachi,2019,"114,137km",Hybrid,1800cc,Automatic,Certified,PakWheels,114137
+Suzuki Alto  2013 ECO-S,PKR 19.99 lacs,1998999,Rawalpindi,2013,"171,000km",Petrol,660cc,Automatic,Not Certified,Customer,171000
+Mitsubishi Pajero  1995 ,PKR 29.78 lacs,2978000,Rawalpindi,1995,"123,456km",Petrol,2800cc,Automatic,Not Certified,Customer,123456
+Suzuki Swift  2022 GLX CVT,PKR 44.25 lacs,4425000,Lahore,2022,"45,500km",Petrol,1200cc,Automatic,Not Certified,Customer,45500
+Suzuki Mehran  2014 VX Euro II,PKR 12.1 lacs,1210000,Rawalpindi,2014,"103,000km",Petrol,796cc,Manual,Not Certified,Customer,103000
+Honda N Box  2019 ,PKR 33 lacs,3300000,Lahore,2019,"36,000km",Petrol,660cc,Automatic,Not Certified,Customer,36000
+Toyota Yaris Cross  2020 Hybrid Z,PKR 81 lacs,8100000,Lahore,2020,"25,090km",Hybrid,1500cc,Automatic,Not Certified,Customer,25090
+Toyota Corolla  2018 GLi 1.3 VVTi,PKR 40 lacs,4000000,Karachi,2018,"66,627km",Petrol,1300cc,Automatic,Not Certified,PakWheels,66627
+Toyota Corolla  2015 Altis Automatic 1.6,PKR 37 lacs,3700000,Karachi,2015,"68,865km",Petrol,1600cc,Automatic,Not Certified,PakWheels,68865
+Suzuki Cultus  2021 Auto Gear Shift,PKR 31 lacs,3100000,Karachi,2021,"79,497km",Petrol,1000cc,Automatic,Not Certified,PakWheels,79497
+Toyota Voxy  2014 X,PKR 60 lacs,6000000,Karachi,2014,"76,027km",Hybrid,2000cc,Automatic,Certified,PakWheels,76027
+Toyota Prius  2011 G LED Edition 1.8,PKR 39 lacs,3900000,Lahore,2011,"249,739km",Hybrid,1800cc,Automatic,Not Certified,PakWheels,249739
+Suzuki Wagon R  2017 VXL,PKR 22 lacs,2200000,Karachi,2017,"29,176km",Petrol,1000cc,Manual,Not Certified,PakWheels,29176
+Toyota Passo  2018 X L Package S ,PKR 34 lacs,3400000,Karachi,2018,"98,960km",Petrol,1000cc,Automatic,Certified,PakWheels,98960
+Suzuki Swift  2016 DLX 1.3,PKR 21 lacs,2100000,Karachi,2016,"77,562km",Petrol,1300cc,Manual,Not Certified,PakWheels,77562
+KIA Picanto  2022 1.0 AT,PKR 29.25 lacs,2925000,Karachi,2022,"22,726km",Petrol,1000cc,Automatic,Certified,PakWheels,22726
+Suzuki Liana  2009 RXi,PKR 10.5 lacs,1050000,Lahore,2009,"133,342km",Petrol,1300cc,Manual,Not Certified,PakWheels,133342
+Nissan Sunny  2006 EX Saloon Automatic 1.3,PKR 23 lacs,2300000,Karachi,2006,"232,629km",Petrol,1300cc,Automatic,Not Certified,PakWheels,232629
+Honda N Wgn  2021 ,PKR 36 lacs,3600000,Gujranwala,2021,"14,761km",Petrol,660cc,Automatic,Not Certified,PakWheels,14761
+Suzuki Potohar  1988 Basegrade,PKR 13.75 lacs,1375000,Sialkot,1988,"100,000km",Petrol,1000cc,Manual,Not Certified,Customer,100000
+Daihatsu Cuore  2000 CX Automatic,PKR 6.5 lacs,650000,Karachi,2000,"20,000km",Petrol,800cc,Automatic,Not Certified,Customer,20000
+Honda Vezel  2021 e-HEV Z,PKR 1.03 crore,10300000,Lahore,2021,"49,000km",Hybrid,1500cc,Automatic,Not Certified,Customer,49000
+Honda Civic Rebirth 2015 VTi Prosmatec 1.8 i-VTEC,PKR 31 lacs,3100000,Islamabad,2015,"190,000km",Petrol,1800cc,Automatic,Not Certified,Customer,190000
+Suzuki Cultus  2016 Limited Edition,PKR 15.15 lacs,1515000,Karachi,2016,"63,000km",Petrol,1000cc,Manual,Not Certified,Customer,63000
+Suzuki Alto  2024 VXR,PKR 27.5 lacs,2750000,Islamabad,2024,650km,Petrol,660cc,Manual,Not Certified,Customer,650
+Toyota Corolla  2016 Altis Grande CVT-i 1.8,PKR 39.5 lacs,3950000,Karachi,2016,"61,491km",Petrol,1800cc,Automatic,Not Certified,PakWheels,61491
+Honda Civic  2012 VTi Prosmatec 1.8 i-VTEC,PKR 40 lacs,4000000,Sialkot,2012,"100,000km",Petrol,1800cc,Automatic,Not Certified,Customer,100000
+Honda N Wgn  2022 G,PKR 34.75 lacs,3475000,Lahore,2022,"4,000km",Petrol,660cc,Automatic,Not Certified,Customer,4000
+Toyota Corolla  2006 ,PKR 33.5 lacs,3350000,Peshawar,2006,"12,345km",Petrol,1500cc,Automatic,Not Certified,Customer,12345
+Toyota Prado  1992 ,PKR 34 lacs,3400000,Islamabad,1992,"200,000km",Diesel,2400cc,Automatic,Not Certified,Customer,200000
+Suzuki Cultus  2007 VXL (CNG),PKR 8.8 lacs,880000,Islamabad,2007,"123,456km",Petrol,1000cc,Manual,Not Certified,Customer,123456
+Suzuki Mehran  2017 VXR Euro II,PKR 14.4 lacs,1440000,Islamabad,2017,"70,000km",Petrol,796cc,Manual,Not Certified,Customer,70000
+Suzuki Cultus  2006 VXR,PKR 11 lacs,1100000,Gujranwala,2006,"80,000km",Petrol,1000cc,Manual,Not Certified,Customer,80000
+Toyota Corolla Axio  2017 Hybrid 1.5,PKR 59.9 lacs,5990000,Lahore,2017,"105,000km",Hybrid,1500cc,Automatic,Not Certified,Customer,105000
+BAIC BJ40 Plus  2021 Honorable Edition,PKR 83 lacs,8300000,Lahore,2021,"24,000km",Petrol,2000cc,Automatic,Not Certified,Customer,24000
+Daihatsu Move  2020 X Turbo,PKR 39.5 lacs,3950000,Lahore,2020,"13,100km",Petrol,660cc,Automatic,Not Certified,Customer,13100
+Honda Civic  2001 EXi Automatic,PKR 13.5 lacs,1350000,Peshawar,2001,"180,000km",Petrol,1500cc,Automatic,Not Certified,Customer,180000
+Nissan Dayz  2020 Highway Star S hybrid X pro pilot,PKR 35.5 lacs,3550000,Lahore,2020,"64,000km",Hybrid,660cc,Automatic,Not Certified,Customer,64000
+Toyota Hilux  2022 Revo V Automatic 2.8,PKR 1.42 crore,14200000,Lahore,2022,10km,Diesel,2800cc,Automatic,Not Certified,Customer,10
+Honda Civic  2018 Oriel 1.8 i-VTEC CVT,PKR 48 lacs,4800000,Karachi,2018,"100,000km",Petrol,1800cc,Automatic,Not Certified,Customer,100000
+Mitsubishi EK X  2021 Sports,PKR 40.25 lacs,4025000,Karachi,2021,"12,000km",Petrol,660cc,Automatic,Not Certified,Customer,12000
+Daihatsu Cast  2021 Activa G SA III,PKR 39.5 lacs,3950000,Karachi,2021,"66,000km",Petrol,660cc,Automatic,Not Certified,Customer,66000
+Suzuki Cultus  2006 VXR,PKR 8.9 lacs,890000,Rawat,2006,"70,000km",Petrol,1000cc,Manual,Not Certified,Customer,70000
+Mercedes Benz Sprinter  2006 ,PKR 43 lacs,4300000,Karachi,2006,"78,000km",Diesel,3000cc,Manual,Not Certified,Customer,78000
+Honda Civic  2020 Oriel 1.8 i-VTEC CVT,PKR 58 lacs,5800000,Lahore,2020,"102,985km",Petrol,1800cc,Automatic,Not Certified,PakWheels,102985
+Toyota Fortuner  2018 2.7 VVTi,PKR 1.03 crore,10300000,Karachi,2018,"37,066km",Petrol,2700cc,Automatic,Certified,PakWheels,37066
+Suzuki Wagon R  2018 VXL,PKR 21.5 lacs,2150000,Karachi,2018,"120,074km",Petrol,1000cc,Manual,Not Certified,PakWheels,120074
+Suzuki Mehran  2015 VXR Euro II,PKR 11 lacs,1100000,Karachi,2015,"28,186km",Petrol,796cc,Manual,Not Certified,PakWheels,28186
+Toyota Corolla  2016 GLi Automatic 1.3 VVTi,PKR 41 lacs,4100000,Karachi,2016,"31,276km",Petrol,1300cc,Automatic,Not Certified,PakWheels,31276
+Honda BR-V  2019 i-VTEC S,PKR 45 lacs,4500000,Lahore,2019,"72,803km",Petrol,1500cc,Automatic,Not Certified,PakWheels,72803
+Toyota Yaris  2022 GLI CVT 1.3,PKR 46 lacs,4600000,Lahore,2022,"9,389km",Petrol,1300cc,Automatic,Not Certified,PakWheels,9389
+Honda Civic  2018 Oriel 1.8 i-VTEC CVT,PKR 50 lacs,5000000,Karachi,2018,"55,005km",Petrol,1800cc,Automatic,Not Certified,PakWheels,55005
+Peugeot 2008  2022 Allure,PKR 62.5 lacs,6250000,Karachi,2022,"5,394km",Petrol,1200cc,Automatic,Not Certified,PakWheels,5394
+Toyota Corolla  2018 GLi Automatic 1.3 VVTi,PKR 40.5 lacs,4050000,Karachi,2018,"83,525km",Petrol,1300cc,Automatic,Not Certified,PakWheels,83525
+Toyota Pixis Epoch  2015 X,PKR 22 lacs,2200000,Karachi,2015,"107,486km",Petrol,660cc,Automatic,Not Certified,PakWheels,107486
+Toyota Yaris Hatchback  2021 X,PKR 44.9 lacs,4490000,Lahore,2021,"91,727km",Petrol,1000cc,Automatic,Certified,PakWheels,91727
+Toyota Corolla  2014 Altis Grande CVT-i 1.8,PKR 42.25 lacs,4225000,Islamabad,2014,"185,115km",Petrol,1800cc,Automatic,Not Certified,Customer,185115
+Honda Vezel  2018 Hybrid Z Honda Sensing ,PKR 82 lacs,8200000,Lahore,2018,"53,000km",Hybrid,1500cc,Automatic,Not Certified,Customer,53000
+Honda Civic  2017 Oriel 1.8 i-VTEC CVT,PKR 47.2 lacs,4720000,Islamabad,2017,"109,000km",Petrol,1800cc,Automatic,Not Certified,Customer,109000
+Toyota Yaris Hatchback  2020 ,PKR 45.9 lacs,4590000,Islamabad,2020,"111,000km",Petrol,1000cc,Automatic,Not Certified,Customer,111000
+Suzuki Mehran  2018 VXR Euro II,PKR 10.75 lacs,1075000,Lahore,2018,"63,000km",Petrol,796cc,Manual,Not Certified,Customer,63000
+Daihatsu Mira  2022 ,PKR 33 lacs,3300000,Rawalpindi,2022,"21,700km",Petrol,660cc,Automatic,Not Certified,Customer,21700
+KIA Sportage  2022 AWD,PKR 74 lacs,7400000,Karachi,2022,"16,000km",Petrol,2000cc,Automatic,Not Certified,Customer,16000
+Nissan Pixo  2011 Visia,PKR 14.5 lacs,1450000,Lahore,2011,"125,000km",Petrol,1000cc,Manual,Not Certified,Customer,125000
+Daihatsu Mira  2021 ,PKR 32.9 lacs,3290000,Karachi,2021,"37,666km",Petrol,660cc,Automatic,Not Certified,PakWheels,37666
+Toyota Land Cruiser  2006 VX Limited 4.2D,PKR 1.16 crore,11600000,Islamabad,2006,"185,000km",Diesel,4200cc,Automatic,Not Certified,Customer,185000
+Honda Civic  2004 EXi Prosmatec,PKR 16.7 lacs,1670000,Hyderabad,2004,"12,345km",Petrol,1500cc,Automatic,Not Certified,Customer,12345
+Toyota Corolla  2022 ,PKR 35 lacs,3500000,Lahore,2022,"25,000km",Petrol,660cc,Automatic,Not Certified,Customer,25000
+Suzuki Wagon R  2014 FX,PKR 22 lacs,2200000,Islamabad,2014,"150,000km",Petrol,660cc,Automatic,Not Certified,Customer,150000
+Toyota Yaris  2021 ATIV X CVT 1.5,PKR 47.5 lacs,4750000,Islamabad,2021,"30,200km",Petrol,1500cc,Automatic,Not Certified,Customer,30200
+Suzuki Mehran  1999 VX,PKR 6.5 lacs,650000,Rawalpindi,1999,"125,874km",Petrol,800cc,Manual,Not Certified,Customer,125874
+Suzuki Cultus  2016 Limited Edition,PKR 16.5 lacs,1650000,Bahawalpur,2016,"78,000km",Petrol,1000cc,Manual,Not Certified,Customer,78000
+Mercedes Benz C Class  2007 C200,PKR 46.5 lacs,4650000,Islamabad,2007,"197,000km",Petrol,1800cc,Automatic,Not Certified,Customer,197000
+Suzuki Wagon R  2016 VXL,PKR 21.45 lacs,2145000,Lahore,2016,"83,000km",Petrol,1000cc,Manual,Not Certified,Customer,83000
+Honda Civic  2005 EXi Prosmatec,PKR 16.8 lacs,1680000,Lahore,2005,"197,000km",Petrol,1500cc,Automatic,Not Certified,Customer,197000
+Nissan Dayz  2017 S,PKR 25.5 lacs,2550000,Lahore,2017,"30,000km",Petrol,660cc,Automatic,Not Certified,Customer,30000
+BMW 7 Series 4th (E65) Generation 2005 730i,PKR 48 lacs,4800000,Lahore,2005,"78,000km",Petrol,3000cc,Automatic,Not Certified,Customer,78000
+Suzuki Cultus  2007 VXR,PKR 9.85 lacs,985000,Lahore,2007,1km,Petrol,1000cc,Manual,Not Certified,Customer,1
+Suzuki Mehran  2007 VXR,PKR 7.6 lacs,760000,Islamabad,2007,"120,000km",Petrol,800cc,Manual,Not Certified,Customer,120000
+Toyota Aqua  2017 S,PKR 49 lacs,4900000,Karachi,2017,"71,000km",Hybrid,1500cc,Automatic,Not Certified,Customer,71000
+Honda Grace Hybrid 6th (GM4) Generation 2015 DX,PKR 41.5 lacs,4150000,Lahore,2015,"98,166km",Hybrid,1500cc,Automatic,Certified,PakWheels,98166
+Honda Civic  2021 1.5 RS Turbo,PKR 72 lacs,7200000,Karachi,2021,"35,204km",Petrol,1500cc,Automatic,Certified,PakWheels,35204
+Toyota Corolla  2019 XLi Automatic,PKR 40 lacs,4000000,Karachi,2019,"67,761km",Petrol,1300cc,Automatic,Not Certified,PakWheels,67761
+Peugeot 2008  2022 Allure,PKR 64 lacs,6400000,Karachi,2022,"9,863km",Petrol,1200cc,Automatic,Certified,PakWheels,9863
+Toyota Prado  2009 TX 4.0,PKR 1.5 crore,15000000,Lahore,2009,"293,792km",Petrol,4000cc,Automatic,Certified,PakWheels,293792
+Toyota Corolla  2003 SE Saloon Automatic,PKR 21 lacs,2100000,Karachi,2003,"245,702km",Petrol,1600cc,Automatic,Not Certified,PakWheels,245702
+Toyota Corolla  2019 GLi Automatic 1.3 VVTi,PKR 43.5 lacs,4350000,Karachi,2019,"18,589km",Petrol,1300cc,Automatic,Not Certified,PakWheels,18589
+Honda City 5th (GM2) Generation 2015 1.3 i-VTEC,PKR 27.8 lacs,2780000,Lahore,2015,"108,699km",Petrol,1300cc,Manual,Not Certified,PakWheels,108699
+Honda Civic  2022 Oriel 1.8 i-VTEC CVT,PKR 63 lacs,6300000,Karachi,2022,"19,861km",Petrol,1800cc,Automatic,Certified,PakWheels,19861
+Toyota Corolla  2015 Altis Grande CVT-i 1.8,PKR 46 lacs,4600000,Lahore,2015,"215,013km",Petrol,1800cc,Automatic,Not Certified,PakWheels,215013
+Toyota Land Cruiser  2021 ZX,PKR 6.1 crore,61000000,Karachi,2021,"1,657km",Petrol,4600cc,Automatic,Certified,PakWheels,1657
+Suzuki Cultus  2013 EURO II,PKR 13.25 lacs,1325000,Karachi,2013,"10,563km",Petrol,1000cc,Manual,Not Certified,PakWheels,10563
+Daihatsu Atrai Wagon  2014 CUSTOM TURBO R,PKR 20.5 lacs,2050000,Islamabad,2014,"172,337km",Petrol,660cc,Automatic,Not Certified,Customer,172337
+Toyota Vitz  2018 F Safety 1.0,PKR 45 lacs,4500000,Abbottabad,2018,"75,000km",Petrol,1000cc,Automatic,Not Certified,Customer,75000
+Suzuki Mehran  2009 VX,PKR 7.8 lacs,780000,Abbottabad,2009,"100,000km",Petrol,800cc,Manual,Not Certified,Customer,100000
+Toyota Yaris  2022 ATIV X MT 1.5,PKR 50 lacs,5000000,Karachi,2022,"8,150km",Petrol,1500cc,Manual,Not Certified,Customer,8150
+Honda City  2005 i-DSI,PKR 16.9 lacs,1689999,Lahore,2005,"300,000km",Petrol,1300cc,Manual,Not Certified,Customer,300000
+Suzuki Potohar  2002 ,PKR 13.2 lacs,1320000,Islamabad,2002,"12,345km",Petrol,1000cc,Manual,Not Certified,Customer,12345
+Nissan Dayz  2015 Highway Star G,PKR 25.25 lacs,2525000,Karachi,2015,"80,000km",Petrol,660cc,Automatic,Not Certified,Customer,80000
+Daihatsu Mira  2018 L,PKR 31 lacs,3100000,Karachi,2018,"119,000km",Petrol,660cc,Automatic,Not Certified,Customer,119000
+Toyota Sienta  2016 X,PKR 56 lacs,5600000,Karachi,2016,"34,000km",Hybrid,1500cc,Automatic,Not Certified,Customer,34000
+Daihatsu Mira  2012 ES,PKR 30 lacs,3000000,Deraismailkhan,2012,"56,000km",Petrol,660cc,Automatic,Not Certified,Customer,56000
+Suzuki Mehran  2017 VXR Euro II,PKR 13.6 lacs,1360000,Sheikhupura,2017,"50,500km",Petrol,796cc,Manual,Not Certified,Customer,50500
+Honda City  2023 1.5L ASPIRE CVT,PKR 50.5 lacs,5050000,Multan,2023,"54,000km",Petrol,1500cc,Automatic,Not Certified,Customer,54000
+BMW 5 Series 5th (E60) Generation 2006 520d,PKR 42.5 lacs,4250000,Lahore,2006,"123,456km",Diesel,2000cc,Automatic,Not Certified,Customer,123456
+Honda Civic  1996 EXi Automatic,PKR 9.3 lacs,930000,Karachi,1996,"99,999km",Petrol,1500cc,Automatic,Not Certified,Customer,99999
+Honda City  2007 i-DSI Vario,PKR 17.9 lacs,1789999,Karachi,2007,"86,000km",Petrol,1300cc,Automatic,Not Certified,Customer,86000
+Honda Civic Eagle Eye 2004 VTi Oriel 1.6,PKR 16.5 lacs,1650000,Lahore,2004,"1,234km",Petrol,1600cc,Manual,Not Certified,Customer,1234
+Honda City  2019 1.3 i-VTEC Prosmatec,PKR 38.9 lacs,3890000,Lahore,2019,"75,000km",Petrol,1300cc,Automatic,Not Certified,Customer,75000
+Suzuki Margalla  1993 GL,PKR 7.5 lacs,750000,Wahcantt,1993,"45,000km",Petrol,1300cc,Manual,Not Certified,Customer,45000
+Toyota Fortuner  2022 Legender ,PKR 1.96 crore,19600000,Lahore,2022,38km,Diesel,2800cc,Automatic,Not Certified,Customer,38
+Toyota Corolla  2009 XLi VVTi,PKR 20.5 lacs,2050000,Lahore,2009,"175,000km",Petrol,1300cc,Manual,Not Certified,Customer,175000
+Suzuki Bolan  2010 VX (CNG),PKR 10 lacs,1000000,Hyderabad,2010,"64,205km",Petrol,800cc,Manual,Not Certified,Customer,64205
+Suzuki Wagon R  2016 VXR,PKR 18.5 lacs,1850000,Lahore,2016,"250,000km",Petrol,1000cc,Manual,Not Certified,Customer,250000
+Toyota Corolla  1992 LX Limited 1.3,PKR 16.5 lacs,1650000,Peshawar,1992,"100,000km",Petrol,1300cc,Automatic,Not Certified,Customer,100000
+Toyota Land Cruiser  2018 ZX,PKR 4.75 crore,47500000,Karachi,2018,"35,000km",Petrol,4600cc,Automatic,Not Certified,Customer,35000
+Hyundai Santro  2007 Exec GV,PKR 11.7 lacs,1170000,Rawalpindi,2007,"12,345km",Petrol,1000cc,Manual,Not Certified,Customer,12345
+Changan Karvaan  2021 Base Model 1.0,PKR 23 lacs,2300000,Karachi,2021,"14,856km",Petrol,1000cc,Manual,Certified,PakWheels,14856
+Nissan Dayz Highway Star  2020 ,PKR 36 lacs,3600000,Karachi,2020,"13,374km",Petrol,660cc,Automatic,Not Certified,PakWheels,13374
+Mitsubishi Ek Wagon  2024 ,PKR 39 lacs,3900000,Lahore,2024,"4,871km",Petrol,660cc,Automatic,Certified,Customer,4871
+Honda City  2003 i-DSI Vario,PKR 12.9 lacs,1290000,Lahore,2003,"185,000km",Petrol,1300cc,Automatic,Not Certified,Customer,185000
+Toyota Vitz  2000 F 1.0,PKR 13.5 lacs,1350000,Lahore,2000,"200,000km",Petrol,1000cc,Manual,Not Certified,Customer,200000
+Toyota Hilux  2017 Revo V Automatic 3.0 ,PKR 85.9 lacs,8590000,Karachi,2017,"79,000km",Diesel,2800cc,Automatic,Not Certified,Customer,79000
+Toyota Corolla  2000 ,PKR 24 lacs,2400000,Islamabad,2000,"185,000km",Diesel,2200cc,Manual,Not Certified,Customer,185000
+Suzuki Alto  2021 VXR,PKR 23.9 lacs,2390000,Gujranwala,2021,"38,000km",Petrol,660cc,Manual,Not Certified,Customer,38000
+Toyota Corolla  2017 GLi 1.3 VVTi,PKR 40 lacs,4000000,Islamabad,2017,"120,000km",Petrol,1300cc,Manual,Not Certified,Customer,120000
+Suzuki Swift  2024 GL CVT,PKR 44.5 lacs,4450000,Bahawalnagar,2024,"13,000km",Petrol,1200cc,Automatic,Not Certified,Customer,13000
+Toyota Aqua  2020 L,PKR 56.95 lacs,5695000,Karachi,2020,"110,000km",Hybrid,1500cc,Automatic,Not Certified,Customer,110000
+Toyota Corolla  2012 Altis Cruisetronic 1.6,PKR 32.5 lacs,3250000,Lahore,2012,"128,935km",Petrol,1600cc,Automatic,Not Certified,Customer,128935
+KIA Picanto  2022 1.0 AT,PKR 29.4 lacs,2940000,Karachi,2022,"13,200km",Petrol,1000cc,Automatic,Not Certified,Customer,13200
+Toyota Corolla  2005 XLi,PKR 16.5 lacs,1650000,Charsadda,2005,"99,999km",Petrol,1300cc,Manual,Not Certified,Customer,99999
+Honda City 5th (GM2) Generation 2017 1.3 i-VTEC Prosmatec,PKR 38 lacs,3800000,Wazirabad,2017,"119,030km",Petrol,1300cc,Automatic,Not Certified,Customer,119030
+Suzuki Alto Lapin  2015 XL,PKR 23 lacs,2300000,Islamabad,2015,"86,000km",Petrol,660cc,Automatic,Not Certified,Customer,86000
+Toyota Prado 3rd (J120) Generation 2004 TX Limited 2.7,PKR 76.5 lacs,7650000,Rawalpindi,2004,"140,000km",Petrol,2700cc,Automatic,Not Certified,Customer,140000
+Honda City  2010 1.3 i-VTEC,PKR 26 lacs,2600000,Peshawar,2010,"111,111km",Petrol,1300cc,Manual,Not Certified,Customer,111111
+Suzuki Wagon R  2019 VXL,PKR 23.75 lacs,2375000,Karachi,2019,"49,000km",Petrol,1000cc,Manual,Not Certified,Customer,49000
+Daihatsu Hijet  2010 Cruise Turbo,PKR 16 lacs,1600000,Gujranwala,2010,"95,000km",Petrol,660cc,Automatic,Not Certified,Customer,95000
+Suzuki Khyber  1991 ,PKR 5.2 lacs,520000,Nowshera,1991,"12,345km",Petrol,1000cc,Manual,Not Certified,Customer,12345
+Toyota Estima  1996 ,PKR 12 lacs,1200000,Karachi,1996,"999,999km",Petrol,2400cc,Automatic,Not Certified,Customer,999999
+Suzuki Bolan  2016 VX Euro II,PKR 10.5 lacs,1050000,Karachi,2016,"8,812km",Petrol,800cc,Manual,Not Certified,Customer,8812
+Chery Tiggo 4 Pro  2022 DEX Plus 1.5T,PKR 53.5 lacs,5350000,Gujrat,2022,"61,000km",Petrol,1500cc,Automatic,Not Certified,Customer,61000
+Nissan Dayz  2013 Highway Star G,PKR 24.5 lacs,2450000,Rawalpindi,2013,"123,456km",Petrol,660cc,Automatic,Not Certified,Customer,123456
+Suzuki Alto  2022 VXR,PKR 21.5 lacs,2150000,Lahore,2022,50km,Petrol,660cc,Manual,Not Certified,Customer,50
+Toyota Succeed  2006 TX G Package Limited,PKR 30 lacs,3000000,Wahcantt,2006,"280,000km",Petrol,1500cc,Automatic,Not Certified,Customer,280000
+Suzuki Mehran  2002 VX (CNG),PKR 5.5 lacs,550000,Kabirwala,2002,"222,222km",Petrol,800cc,Manual,Not Certified,Customer,222222
+Suzuki Swift  2019 DLX 1.3 Navigation ,PKR 24.8 lacs,2480000,Wahcantt,2019,"123,000km",Petrol,1300cc,Manual,Not Certified,Customer,123000
+Suzuki Alto  2013 ECO-S,PKR 21.5 lacs,2150000,Peshawar,2013,"127,600km",Petrol,660cc,Automatic,Not Certified,Customer,127600
+Honda Civic  2019 Oriel 1.8 i-VTEC CVT,PKR 60 lacs,6000000,Lahore,2019,"43,500km",Petrol,1800cc,Automatic,Not Certified,Customer,43500
+Toyota Yaris Hatchback  2020 G 1.0,PKR 47 lacs,4700000,Lahore,2020,"35,949km",Petrol,996cc,Automatic,Not Certified,PakWheels,35949
+Toyota Corolla  1995 LX Limited 1.5,PKR 13.7 lacs,1370000,GujarKhan,1995,"215,000km",Petrol,1500cc,Automatic,Not Certified,Customer,215000
+Toyota Yaris Cross  2022 Hybrid Z,PKR 85 lacs,8500000,Islamabad,2022,"11,000km",Hybrid,1500cc,Automatic,Not Certified,Customer,11000
+Toyota Corona  1993 ,PKR 16.8 lacs,1680000,Peshawar,1993,"203,858km",Petrol,2000cc,Automatic,Not Certified,Customer,203858
+Suzuki Swift  2018 DLX Automatic 1.3 Navigation,PKR 26.5 lacs,2650000,Islamabad,2018,"136,000km",Petrol,1300cc,Automatic,Not Certified,Customer,136000
+Toyota Corolla  2018 Altis Automatic 1.6,PKR 46 lacs,4600000,Rawalpindi,2018,"116,000km",Petrol,1600cc,Automatic,Not Certified,Customer,116000
+MG HS  2021 Trophy,PKR 66.5 lacs,6650000,Sheikhupura,2021,"12,000km",Petrol,1500cc,Automatic,Not Certified,Customer,12000
+Toyota Corolla  2022 Altis X Automatic 1.6,PKR 56 lacs,5600000,Hafizabad,2022,"32,000km",Petrol,1600cc,Automatic,Not Certified,Customer,32000
+Mazda Flair  2016 XG,PKR 24 lacs,2400000,Faisalabad,2016,"137,000km",Petrol,660cc,Automatic,Not Certified,Customer,137000
+Suzuki Wagon R  2019 VXL,PKR 24.55 lacs,2455000,Sahiwal,2019,"98,000km",Petrol,1000cc,Manual,Not Certified,Customer,98000
+Mitsubishi Lancer  2007 GLX Automatic 1.6,PKR 15.4 lacs,1540000,Islamabad,2007,"190,000km",Petrol,1600cc,Automatic,Not Certified,Customer,190000
+Audi A4  2014 1.8 TFSI,PKR 75 lacs,7500000,Karachi,2014,"68,000km",Petrol,1800cc,Automatic,Not Certified,Customer,68000
+Toyota Fortuner  2022 2.8 Sigma 4,PKR 1.61 crore,16100000,Karachi,2022,"25,000km",Diesel,2800cc,Automatic,Not Certified,Customer,25000
+Suzuki Alto  2007 GII,PKR 15.85 lacs,1585000,Rawalpindi,2007,"92,300km",Petrol,660cc,Automatic,Not Certified,Customer,92300
+Toyota Corolla  2015 GLi 1.3 VVTi,PKR 33.8 lacs,3379999,Lahore,2015,"185,000km",Petrol,1300cc,Manual,Not Certified,Customer,185000
+MG HS  2021 Trophy,PKR 68 lacs,6800000,Islamabad,2021,"11,500km",Petrol,1500cc,Automatic,Not Certified,Customer,11500
+Toyota Fortuner  2019 2.7 VVTi,PKR 1.15 crore,11500000,Lahore,2019,"81,000km",Petrol,2700cc,Automatic,Not Certified,Customer,81000
+Suzuki Cultus  2016 Limited Edition,PKR 16.15 lacs,1614999,Lahore,2016,"95,000km",Petrol,1000cc,Manual,Not Certified,Customer,95000
+Suzuki Alto  2021 VXL AGS,PKR 26.25 lacs,2625000,Karachi,2021,"32,000km",Petrol,660cc,Automatic,Not Certified,Customer,32000
+Toyota Corolla  2017 Altis Automatic 1.6,PKR 42.25 lacs,4225000,Karachi,2017,"89,800km",Petrol,1600cc,Automatic,Not Certified,Customer,89800
+Toyota Corolla  2017 Altis Automatic 1.6,PKR 51 lacs,5100000,Lahore,2017,"106,180km",Petrol,1600cc,Automatic,Not Certified,Customer,106180
+Suzuki Bolan  2015 VX Euro II,PKR 11.3 lacs,1130000,Lahore,2015,"75,000km",Petrol,800cc,Manual,Not Certified,Customer,75000
+Toyota Corolla  2021 Altis Grande X CVT-i 1.8 Beige Interior,PKR 66.5 lacs,6650000,Burewala,2021,"69,500km",Petrol,1800cc,Automatic,Not Certified,Customer,69500
+Suzuki Vitara  2018 ,PKR 47 lacs,4700000,Rawalpindi,2018,"75,000km",Petrol,1000cc,Manual,Not Certified,Customer,75000
+Suzuki Mehran  2008 VX,PKR 7.9 lacs,790000,Islamabad,2008,"160,000km",Petrol,800cc,Manual,Not Certified,Customer,160000
+Suzuki Baleno  2002 JXR,PKR 10.5 lacs,1050000,Chakwal,2002,"250,000km",Petrol,1300cc,Manual,Not Certified,Customer,250000
+Honda Vezel  2016 Hybrid X L Package,PKR 54.95 lacs,5495000,Islamabad,2016,"129,000km",Hybrid,1500cc,Automatic,Not Certified,Customer,129000
+Lexus LX Series  2016 LX570,PKR 5.75 crore,57500000,Islamabad,2016,"29,000km",Petrol,5700cc,Automatic,Not Certified,Customer,29000
+Toyota Corolla  2024 Altis Grande X CVT-i 1.8 Beige Interior,PKR 80 lacs,8000000,Islamabad,2024,50km,Petrol,1800cc,Automatic,Not Certified,Customer,50
+Suzuki Khyber  1991 GA,PKR 5 lacs,500000,Bhakkar,1991,"70,000km",Petrol,1000cc,Manual,Not Certified,Customer,70000
+Toyota Corolla  2019 Altis Automatic 1.6,PKR 50 lacs,5000000,Lahore,2019,"82,114km",Petrol,1600cc,Automatic,Not Certified,Customer,82114
+Honda Vezel  2018 Hybrid Z,PKR 65.5 lacs,6550000,Peshawar,2018,"102,000km",Hybrid,1500cc,Automatic,Not Certified,Customer,102000
+Toyota Prius  2023 1.8 U Hybrid,PKR 1.45 crore,14500000,Karachi,2023,"4,200km",Hybrid,1800cc,Automatic,Not Certified,Customer,4200
+Toyota Land Cruiser 6th (J100) Generation 2003 VX Limited 4.7,PKR 97 lacs,9700000,Peshawar,2003,"180,000km",Petrol,4700cc,Automatic,Not Certified,Customer,180000
+Toyota Fortuner  2022 2.8 Sigma 4,PKR 1.6 crore,16000000,Peshawar,2022,"46,000km",Diesel,2800cc,Automatic,Not Certified,Customer,46000
+Honda Insight  2019 EX,PKR 96 lacs,9600000,Peshawar,2019,"95,000km",Hybrid,1500cc,Automatic,Not Certified,Customer,95000
+Toyota Corolla  2003 2.0D,PKR 22.5 lacs,2250000,Peshawar,2003,"165,000km",Diesel,2000cc,Manual,Not Certified,Customer,165000
+Honda City 5th (GM2) Generation 2018 1.3 i-VTEC,PKR 37.25 lacs,3725000,Islamabad,2018,"85,000km",Petrol,1300cc,Manual,Not Certified,Customer,85000
+Suzuki Mehran  2004 VX,PKR 5.9 lacs,590000,Saraialamgir,2004,"80,000km",Petrol,800cc,Manual,Not Certified,Customer,80000
+Toyota Yaris  2022 ATIV X CVT 1.5,PKR 53 lacs,5300000,Lahore,2022,"7,900km",Petrol,1500cc,Automatic,Not Certified,Customer,7900
+Toyota Corolla  2012 Altis SR Cruisetronic 1.6,PKR 36 lacs,3600000,Sargodha,2012,"150,000km",Petrol,1600cc,Automatic,Not Certified,Customer,150000
+Honda City  2013 1.3 i-VTEC,PKR 28.2 lacs,2820000,Lahore,2013,"106,000km",Petrol,1300cc,Manual,Not Certified,Customer,106000
+KIA Stonic  2022 EX+,PKR 58.5 lacs,5850000,Islamabad,2022,"11,000km",Petrol,1400cc,Automatic,Not Certified,Customer,11000
+Suzuki Alto  2023 Hybrid X,PKR 38.5 lacs,3850000,Peshawar,2023,"45,000km",Hybrid,660cc,Automatic,Not Certified,Customer,45000
+Suzuki Every 11th Generation (JDM) 2015 GA,PKR 21.8 lacs,2180000,Peshawar,2015,"82,000km",Petrol,660cc,Automatic,Not Certified,Customer,82000
+Suzuki Alto  2005 ,PKR 9.8 lacs,980000,Islamabad,2005,"82,000km",Petrol,660cc,Automatic,Not Certified,Customer,82000
+Toyota Aqua  2012 ,PKR 29.9 lacs,2990000,Hafizabad,2012,"150,000km",Petrol,1500cc,Automatic,Not Certified,Customer,150000
+Suzuki Bolan  2010 ,PKR 11 lacs,1100000,Swabi,2010,"140,000km",Petrol,800cc,Manual,Not Certified,Customer,140000
+Toyota Fortuner  2022 Legender ,PKR 1.81 crore,18100000,Islamabad,2022,"18,000km",Diesel,2800cc,Automatic,Not Certified,Customer,18000
+Toyota Corolla  2013 GLi Limited Edition 1.3 VVTi,PKR 32.5 lacs,3250000,MirpurAK,2013,"200,000km",Petrol,1300cc,Manual,Not Certified,Customer,200000
+Honda City  2007 i-DSI,PKR 17 lacs,1700000,Faisalabad,2007,"150,000km",Petrol,1300cc,Manual,Not Certified,Customer,150000
+Suzuki Alto  2023 VXR,PKR 26.2 lacs,2620000,Hyderabad,2023,"28,000km",Petrol,660cc,Manual,Not Certified,Customer,28000
+Daihatsu Cuore  2009 CX Ecomatic,PKR 15.75 lacs,1575000,Islamabad,2009,"125,000km",Petrol,800cc,Automatic,Not Certified,Customer,125000
+Toyota Corolla  2009 GLi 1.3 VVTi,PKR 29.5 lacs,2950000,Rawalpindi,2009,"103,000km",Petrol,1300cc,Manual,Not Certified,Customer,103000
+Haval Jolion  2021 1.5T,PKR 73.9 lacs,7390000,Lahore,2021,"75,000km",Petrol,1500cc,Automatic,Not Certified,Customer,75000
+Toyota Corolla  2015 GLi 1.3 VVTi,PKR 33 lacs,3300000,ZahirPeer,2015,"90,200km",Petrol,1300cc,Manual,Not Certified,Customer,90200
+Suzuki Khyber  1996 GA,PKR 3.9 lacs,390000,Karachi,1996,"16,000km",Petrol,1000cc,Manual,Not Certified,Customer,16000
+Toyota Corolla  2014 GLi 1.3 VVTi,PKR 34 lacs,3400000,Rawalpindi,2014,"85,000km",Petrol,1300cc,Manual,Not Certified,Customer,85000
+Toyota Yaris  2022 ATIV CVT 1.3,PKR 51 lacs,5100000,Karachi,2022,"3,300km",Petrol,1300cc,Automatic,Not Certified,Customer,3300
+Daihatsu Mira  2004 X,PKR 15.9 lacs,1590000,Islamabad,2004,"100,000km",Petrol,660cc,Automatic,Not Certified,Customer,100000
+Daihatsu Move  2007 Custom X,PKR 15.75 lacs,1575000,Karachi,2007,"98,000km",Petrol,660cc,Automatic,Not Certified,Customer,98000
+Toyota Hilux  2023 Revo Rocco,PKR 1.5 crore,15000000,Karachi,2023,"2,200km",Diesel,2800cc,Automatic,Not Certified,Customer,2200
+Toyota Corolla  2017 XLi VVTi,PKR 32.5 lacs,3250000,Lahore,2017,"66,600km",Petrol,1300cc,Manual,Not Certified,Customer,66600
+Toyota Vitz  2012 F 1.0,PKR 26 lacs,2600000,Gujranwala,2012,"90,000km",Petrol,1000cc,Automatic,Not Certified,Customer,90000
+Suzuki Every 11th Generation (JDM) 2019 Join,PKR 27.5 lacs,2750000,Lahore,2019,"84,000km",Petrol,660cc,Automatic,Not Certified,Customer,84000
+Toyota Corolla  2019 XLi Automatic,PKR 34 lacs,3400000,Karachi,2019,"60,000km",Petrol,1300cc,Automatic,Not Certified,Customer,60000
+Daihatsu Mira  2015 L,PKR 22.8 lacs,2280000,Karachi,2015,"110,000km",Petrol,660cc,Automatic,Not Certified,Customer,110000
+Honda Fit  2011 1.3 Hybrid Base Grade,PKR 24.5 lacs,2450000,Karachi,2011,"120,000km",Hybrid,1300cc,Automatic,Not Certified,Customer,120000
+Suzuki Alto  2022 VXR,PKR 23 lacs,2300000,Haripur,2022,"25,000km",Petrol,660cc,Manual,Not Certified,Customer,25000
+Toyota Raize  2021 Z,PKR 50.5 lacs,5050000,Karachi,2021,"35,200km",Petrol,1000cc,Automatic,Not Certified,Customer,35200
+Toyota Corolla  2021 Altis Grande X CVT-i 1.8 Black Interior,PKR 65.5 lacs,6550000,Islamabad,2021,"49,000km",Petrol,1800cc,Automatic,Not Certified,Customer,49000
+Suzuki Mehran  2016 VXR Euro II,PKR 9.5 lacs,950000,RahimYarKhan,2016,"21,000km",Petrol,800cc,Manual,Not Certified,Customer,21000
+Honda City  2021 1.2L CVT,PKR 41 lacs,4100000,RatoDero,2021,"50,000km",Petrol,1200cc,Automatic,Not Certified,Customer,50000
+Suzuki Bolan  2017 ,PKR 12.75 lacs,1275000,Kharian,2017,85km,Petrol,800cc,Manual,Not Certified,Customer,85
+Suzuki Alto  2012 VXR,PKR 11.85 lacs,1185000,Karachi,2012,"123,456km",Petrol,1000cc,Manual,Not Certified,Customer,123456
+Toyota Mark X  2013 250G F Package,PKR 1.25 crore,12500000,Karachi,2013,"112,000km",Petrol,2500cc,Automatic,Not Certified,Customer,112000
+Toyota Prius  2014 S Touring Selection My Coorde 1.8,PKR 50.5 lacs,5050000,Islamabad,2014,"192,000km",Hybrid,1800cc,Automatic,Not Certified,Customer,192000
+Toyota Corolla  2013 GLi 1.3 VVTi,PKR 31.5 lacs,3150000,Islamabad,2013,"141,000km",Petrol,1300cc,Manual,Not Certified,Customer,141000
+Suzuki Mehran  2011 VX,PKR 10 lacs,1000000,Lahore,2011,"75,000km",Petrol,800cc,Manual,Not Certified,Customer,75000
+Honda City  2020 1.3 i-VTEC Prosmatec,PKR 40 lacs,4000000,Rawalpindi,2020,"125,569km",Petrol,1300cc,Automatic,Not Certified,Customer,125569
+KIA Sportage  2022 FWD,PKR 73.9 lacs,7390000,Lahore,2022,"12,000km",Petrol,2000cc,Automatic,Not Certified,Customer,12000
+Toyota Prado  2020 TX 2.7,PKR 2.65 crore,26500000,Karachi,2020,"15,000km",Petrol,2700cc,Automatic,Not Certified,Customer,15000
+Toyota Corolla  2019 Altis Grande CVT-i 1.8,PKR 57.75 lacs,5775000,Islamabad,2019,"82,500km",Petrol,1800cc,Automatic,Not Certified,Customer,82500
+Toyota Prius  2021 S,PKR 97 lacs,9700000,Karachi,2021,"14,000km",Hybrid,1800cc,Automatic,Not Certified,Customer,14000
+Suzuki Cultus  2017 VXL,PKR 22.5 lacs,2250000,Rawalpindi,2017,"150,000km",Petrol,1000cc,Manual,Not Certified,Customer,150000
+Toyota C-HR  2019 S-GR Package,PKR 1.1 crore,11000000,Karachi,2019,"51,000km",Hybrid,1800cc,Automatic,Not Certified,Customer,51000
+Toyota Corolla  1986 DX Saloon,PKR 4 lacs,400000,Karachi,1986,"40,000km",Petrol,1300cc,Manual,Not Certified,Customer,40000
+Changan Alsvin  2021 1.5L DCT Lumiere,PKR 35 lacs,3500000,Multan,2021,"50,000km",Petrol,1500cc,Automatic,Not Certified,Customer,50000
+Suzuki Alto  2014 E,PKR 22 lacs,2200000,Karachi,2014,"99,987km",Petrol,660cc,Automatic,Not Certified,Customer,99987
+Toyota Corolla  1980 ,PKR 3.5 lacs,350000,Haripur,1980,"1,300km",Petrol,1300cc,Manual,Not Certified,Customer,1300
+Toyota Corolla  2019 GLi Automatic 1.3 VVTi,PKR 46.8 lacs,4680000,Mansehra,2019,"70,000km",Petrol,1300cc,Automatic,Not Certified,Customer,70000
+Honda Civic  2022 1.5 RS Turbo,PKR 90 lacs,9000000,Karachi,2022,"22,921km",Petrol,1500cc,Automatic,Certified,PakWheels,22921
+Toyota Passo  2021 Moda,PKR 44.25 lacs,4425000,Karachi,2021,"45,000km",Petrol,1000cc,Automatic,Not Certified,Customer,45000
+Toyota Corolla  2022 Altis Grande X CVT-i 1.8 Black Interior,PKR 70 lacs,7000000,Islamabad,2022,"21,000km",Petrol,1800cc,Automatic,Not Certified,Customer,21000
+Toyota Yaris  2021 ATIV X MT 1.5,PKR 43.5 lacs,4350000,Islamabad,2021,"65,000km",Petrol,1500cc,Manual,Not Certified,Customer,65000
+Suzuki Mehran  2013 VX Euro II,PKR 11.5 lacs,1150000,Islamabad,2013,"50,000km",Petrol,796cc,Manual,Not Certified,Customer,50000
+Toyota Vitz  2017 F 1.0,PKR 36.4 lacs,3640000,Karachi,2017,"89,000km",Petrol,996cc,Automatic,Not Certified,Customer,89000
+Toyota Mark II  2002 Grande 2.0,PKR 21 lacs,2100000,Islamabad,2002,"160,000km",Petrol,2000cc,Automatic,Not Certified,Customer,160000
+Suzuki Cultus  2008 VXRi,PKR 11.5 lacs,1150000,Gujrat,2008,"76,000km",Petrol,1000cc,Manual,Not Certified,Customer,76000
+Nissan Clipper  2012 DX,PKR 17 lacs,1700000,Rawalpindi,2012,280km,Petrol,660cc,Automatic,Not Certified,Customer,280
+Suzuki Every  2018 ,PKR 26 lacs,2600000,Karachi,2018,"12,560km",Petrol,660cc,Automatic,Not Certified,Customer,12560
+Hyundai Santro  2007 Club GV,PKR 10.8 lacs,1080000,Rawalpindi,2007,"125,000km",Petrol,1100cc,Manual,Not Certified,Customer,125000
+Changan Karvaan  2021 Plus,PKR 22.5 lacs,2250000,Karachi,2021,"100,000km",Petrol,1000cc,Manual,Not Certified,Customer,100000
+Honda City  2005 i-DSI,PKR 16.5 lacs,1650000,Sahiwal,2005,1km,Petrol,1300cc,Manual,Not Certified,Customer,1
+Prince Pearl  2022 MT,PKR 13 lacs,1300000,Muridke,2022,"14,000km",Petrol,800cc,Manual,Not Certified,Customer,14000
+Suzuki Cultus  2007 VXR,PKR 10 lacs,1000000,Islamabad,2007,"200,000km",Petrol,1000cc,Manual,Not Certified,Customer,200000
+Honda City 5th (GM2) Generation 2010 1.3 i-VTEC,PKR 23.5 lacs,2350000,Lahore,2010,"150,000km",Petrol,1300cc,Manual,Not Certified,Customer,150000
+Suzuki Ciaz  2017 Automatic,PKR 33 lacs,3300000,Lahore,2017,"124,000km",Petrol,1400cc,Automatic,Not Certified,Customer,124000
+Honda Civic Reborn 2009 VTi Oriel Prosmatec 1.8 i-VTEC,PKR 35 lacs,3500000,Peshawar,2009,"73,500km",Petrol,1800cc,Automatic,Not Certified,Customer,73500
+Toyota Corolla  2020 Altis Automatic 1.6,PKR 52.25 lacs,5225000,Lahore,2020,"32,500km",Petrol,1600cc,Automatic,Not Certified,Customer,32500
+Toyota Corolla  2016 GLi 1.3 VVTi,PKR 29.75 lacs,2975000,Faisalabad,2016,"350,000km",Petrol,1300cc,Manual,Not Certified,Customer,350000
+Honda City  2002 EXi S Automatic,PKR 9.8 lacs,980000,Lahore,2002,"300,000km",Petrol,1500cc,Automatic,Not Certified,Customer,300000
+Suzuki Mehran  1998 VX,PKR 3 lacs,300000,Hyderabad,1998,"100,000km",Petrol,800cc,Manual,Not Certified,Customer,100000
+Toyota Corolla  2010 GLi 1.3 VVTi,PKR 23.5 lacs,2350000,Multan,2010,"150,000km",Petrol,1300cc,Manual,Not Certified,Customer,150000
+Honda City  2002 EXi,PKR 13.25 lacs,1325000,Lahore,2002,"168,000km",Petrol,1300cc,Manual,Not Certified,Customer,168000
+Suzuki Alto  2024 VXR,PKR 28.5 lacs,2850000,Gujrat,2024,"5,000km",Petrol,660cc,Manual,Not Certified,Customer,5000
+Toyota C-HR  2019 G-LED,PKR 89 lacs,8900000,Karachi,2019,"35,000km",Hybrid,1800cc,Automatic,Not Certified,Customer,35000
+Toyota Mark X  2005 300G,PKR 49 lacs,4900000,Jhelum,2005,"3,000km",Petrol,3000cc,Automatic,Not Certified,Customer,3000
+Toyota C-HR  2019 G-LED,PKR 96 lacs,9600000,Karachi,2019,"26,000km",Hybrid,1800cc,Automatic,Not Certified,Customer,26000
+Toyota Corolla  2016 Altis Automatic 1.6,PKR 44.95 lacs,4495000,Islamabad,2016,"51,230km",Petrol,1600cc,Automatic,Not Certified,Customer,51230
+Toyota C-HR  2019 S-GR Package,PKR 1.08 crore,10800000,Karachi,2019,"44,000km",Hybrid,1800cc,Automatic,Not Certified,Customer,44000
+Toyota Corolla Axio  2016 Hybrid 1.5,PKR 49.5 lacs,4950000,Lahore,2016,"99,000km",Hybrid,1500cc,Automatic,Not Certified,Customer,99000
+Daihatsu Move  2013 L SA,PKR 23.5 lacs,2350000,Lahore,2013,"130,000km",Petrol,658cc,Automatic,Not Certified,Customer,130000
+Suzuki Cultus  2002 VX,PKR 6.2 lacs,620000,Bannu,2002,222km,Petrol,1000cc,Manual,Not Certified,Customer,222
+Honda CR-Z Sports Hybrid  2010 ,PKR 31 lacs,3100000,Lahore,2010,"71,000km",Petrol,1500cc,Automatic,Not Certified,Customer,71000
+BAIC BJ40 Plus  2023 Honorable Edition,PKR 89 lacs,8900000,Faisalabad,2023,"36,000km",Petrol,2000cc,Automatic,Not Certified,Customer,36000
+KIA Stonic  2024 EX+,PKR 58 lacs,5800000,Lahore,2024,10km,Petrol,1400cc,Automatic,Not Certified,Customer,10
+Toyota Corolla 9th (E120) Generation 2007 GLi 1.3,PKR 22 lacs,2200000,Mardan,2007,"300,000km",Petrol,1300cc,Manual,Not Certified,Customer,300000
+Suzuki Swift  2024 GLX CVT,PKR 46.5 lacs,4650000,Hasilpur,2024,"36,000km",Petrol,1200cc,Automatic,Not Certified,Customer,36000
+Honda Civic  1999 VTi Oriel Automatic 1.6,PKR 14.75 lacs,1475000,Lahore,1999,"175,000km",Petrol,1600cc,Automatic,Not Certified,Customer,175000
+Daihatsu Mira  2014 X Memorial Edition,PKR 25.5 lacs,2550000,Karachi,2014,77km,Petrol,660cc,Automatic,Not Certified,Customer,77
+Honda Civic  2003 VTi Oriel Prosmatec 1.6,PKR 16.4 lacs,1639999,Quetta,2003,"250,000km",Petrol,1600cc,Automatic,Not Certified,Customer,250000
+Suzuki Swift  2022 GL CVT Limited Edition,PKR 40.95 lacs,4095000,Sialkot,2022,"17,000km",Petrol,1200cc,Automatic,Not Certified,Customer,17000
+Toyota Corolla Cross  2024 1.8 HEV X,PKR 95 lacs,9500000,Karachi,2024,"15,000km",Hybrid,1800cc,Automatic,Not Certified,Customer,15000
+Suzuki Cultus  2016 Limited Edition,PKR 19.25 lacs,1925000,Rawalpindi,2016,"86,000km",Petrol,1000cc,Manual,Not Certified,Customer,86000
+Haval Jolion  2022 Top,PKR 75 lacs,7500000,Karachi,2022,"41,000km",Petrol,1500cc,Automatic,Not Certified,Customer,41000
+Daihatsu Charade  1984 ,PKR 3.5 lacs,350000,Rawalpindi,1984,"100,000km",Petrol,1300cc,Manual,Not Certified,Customer,100000
+Toyota Fortuner  2022 2.8 Sigma 4,PKR 1.68 crore,16800000,Islamabad,2022,"28,000km",Diesel,2800cc,Automatic,Not Certified,Customer,28000
+Honda City  2016 Aspire Prosmatec 1.3 i-VTEC,PKR 35.5 lacs,3550000,Chakwal,2016,"92,000km",Petrol,1300cc,Automatic,Not Certified,Customer,92000
+Honda Civic  2021 Oriel 1.8 i-VTEC CVT,PKR 66 lacs,6600000,Lahore,2021,"61,000km",Petrol,1800cc,Automatic,Not Certified,Customer,61000
+Audi A4  2016 1.4 TFSI ,PKR 1.07 crore,10700000,Lahore,2016,"58,000km",Petrol,1400cc,Automatic,Not Certified,Customer,58000
+Suzuki Cultus  2007 VXR (CNG),PKR 7.85 lacs,785000,Sialkot,2007,"90,000km",Petrol,1000cc,Manual,Not Certified,Customer,90000
+Toyota Raize  2021 Z,PKR 68.5 lacs,6850000,Islamabad,2021,"16,300km",Petrol,1000cc,Automatic,Not Certified,Customer,16300
+Toyota Corolla Axio  2018 Hybrid 1.5,PKR 65.5 lacs,6550000,Islamabad,2018,"90,000km",Petrol,1500cc,Automatic,Not Certified,Customer,90000
+Toyota Corolla  2013 GLi 1.3 VVTi,PKR 38 lacs,3800000,Rawalpindi,2013,"72,000km",Petrol,1300cc,Manual,Not Certified,Customer,72000
+Suzuki Baleno  2005 JXR,PKR 10.5 lacs,1050000,Lahore,2005,"197,000km",Petrol,1300cc,Manual,Not Certified,Customer,197000
+Toyota Corolla  2014 GLi Automatic 1.3 VVTi,PKR 34 lacs,3400000,Islamabad,2014,138km,Petrol,1300cc,Automatic,Not Certified,Customer,138
+Toyota Corolla  2012 XLi VVTi,PKR 21.5 lacs,2150000,Islamabad,2012,123km,Petrol,1300cc,Manual,Not Certified,Customer,123
+Honda City 5th (GM2) Generation 2017 Aspire Prosmatec 1.5 i-VTEC,PKR 38 lacs,3800000,Rawalpindi,2017,"138,000km",Petrol,1500cc,Automatic,Not Certified,Customer,138000
+Toyota Corolla  2015 GLi Automatic 1.3 VVTi,PKR 37.25 lacs,3725000,Lahore,2015,"144,784km",Petrol,1300cc,Automatic,Not Certified,Customer,144784
+Toyota Fortuner  2022 2.7 G,PKR 1.28 crore,12800000,Lahore,2022,"24,500km",Petrol,2700cc,Automatic,Not Certified,Customer,24500
+Suzuki Alto  2007 GII,PKR 17 lacs,1700000,Rawalpindi,2007,"200,000km",Petrol,660cc,Automatic,Not Certified,Customer,200000
+Suzuki Mehran  2015 VX Euro II,PKR 10.7 lacs,1070000,Hazro,2015,"100,000km",Petrol,800cc,Manual,Not Certified,Customer,100000
+Toyota Corolla  1984 SE Saloon,PKR 12 lacs,1200000,Wahcantt,1984,"150,000km",Petrol,1600cc,Manual,Not Certified,Customer,150000
+Suzuki Cultus  2020 VXL,PKR 31.8 lacs,3180000,Lahore,2020,"77,000km",Petrol,1000cc,Manual,Not Certified,Customer,77000
+Suzuki Wagon R  2022 FA,PKR 35.8 lacs,3579999,Rawalpindi,2022,"19,000km",Petrol,660cc,Automatic,Not Certified,Customer,19000
+Suzuki Baleno  2005 JXR,PKR 12.3 lacs,1230000,Wahcantt,2005,"270,000km",Petrol,1300cc,Manual,Not Certified,Customer,270000
+Toyota Corolla  2018 Altis Automatic 1.6,PKR 46 lacs,4600000,Islamabad,2018,"57,000km",Petrol,1600cc,Automatic,Not Certified,Customer,57000
+Suzuki Cultus  2017 VXL,PKR 24 lacs,2400000,Jhang,2017,"160,000km",Petrol,1000cc,Manual,Not Certified,Customer,160000
+Toyota Prius Alpha  2017 S,PKR 65.5 lacs,6550000,Islamabad,2017,"170,000km",Hybrid,1800cc,Automatic,Not Certified,Customer,170000
+Honda City  2005 i-DSI Vario,PKR 16.5 lacs,1650000,Chakwal,2005,"185,000km",Petrol,1300cc,Automatic,Not Certified,Customer,185000
+Honda City 5th (GM2) Generation 2018 1.5 i-VTEC,PKR 36.5 lacs,3650000,Lahore,2018,"59,000km",Petrol,1500cc,Manual,Not Certified,Customer,59000
+Toyota Yaris  2021 ATIV MT 1.3,PKR 39.5 lacs,3950000,Multan,2021,"46,000km",Petrol,1300cc,Manual,Not Certified,Customer,46000
+DFSK Glory 580  2021 Pro,PKR 49.5 lacs,4950000,Karachi,2021,"46,000km",Petrol,1500cc,Automatic,Not Certified,Customer,46000
+Honda Civic  2017 Oriel 1.8 i-VTEC CVT,PKR 49.75 lacs,4975000,Peshawar,2017,"78,000km",Petrol,1800cc,Automatic,Not Certified,Customer,78000
+Toyota Crown  2006 Royal Saloon,PKR 80 lacs,8000000,Islamabad,2006,"120,000km",Petrol,2500cc,Automatic,Not Certified,Customer,120000
+Suzuki APV  2006 GLX,PKR 19.6 lacs,1960000,Lahore,2006,"860,938km",Petrol,1600cc,Manual,Not Certified,Customer,860938
+Toyota Fortuner  2014 TRD Sportivo,PKR 64.78 lacs,6478000,Karachi,2014,"56,200km",Petrol,2700cc,Automatic,Not Certified,Customer,56200
+Suzuki Mehran  2017 VXR Euro II,PKR 11.5 lacs,1150000,Lahore,2017,"78,000km",Petrol,800cc,Manual,Not Certified,Customer,78000
+Hyundai Elantra  2021 GLS,PKR 61 lacs,6100000,Rawalpindi,2021,"38,000km",Petrol,2000cc,Automatic,Not Certified,Customer,38000
+Honda Civic  2017 Oriel 1.8 i-VTEC CVT,PKR 55 lacs,5500000,Lahore,2017,"39,974km",Petrol,1800cc,Automatic,Not Certified,Customer,39974
+Toyota Corolla  2022 Altis Grande X CVT-i 1.8 Black Interior,PKR 70 lacs,7000000,Islamabad,2022,"53,000km",Petrol,1800cc,Automatic,Not Certified,Customer,53000
+Toyota Corolla  2010 Altis SR Cruisetronic 1.8,PKR 34 lacs,3400000,Faisalabad,2010,"160,000km",Petrol,1800cc,Automatic,Not Certified,Customer,160000
+Nissan Patrol  2021 ,PKR 7.5 crore,75000000,Islamabad,2021,90km,Petrol,5600cc,Automatic,Not Certified,Customer,90
+Honda City 5th (GM2) Generation 2015 1.3 i-VTEC,PKR 30 lacs,3000000,Multan,2015,"110,000km",Petrol,1300cc,Manual,Not Certified,Customer,110000
+Suzuki Alto  2011 VXR,PKR 11.3 lacs,1130000,Lahore,2011,"120,000km",Petrol,1000cc,Manual,Not Certified,Customer,120000
+KIA Sportage  2020 AWD,PKR 65.5 lacs,6550000,Karachi,2020,"40,500km",Petrol,2000cc,Automatic,Not Certified,Customer,40500
+Suzuki Alto  2024 VXL AGS,PKR 31.5 lacs,3150000,Lahore,2024,10km,Petrol,660cc,Automatic,Not Certified,Customer,10
+Suzuki Alto  2004 VXR,PKR 7.5 lacs,750000,Karachi,2004,"1,241km",Petrol,1000cc,Manual,Not Certified,Customer,1241
+Honda Civic  2006 VTi 1.8 i-VTEC,PKR 27.5 lacs,2750000,Bahawalnagar,2006,"65,000km",Petrol,1800cc,Automatic,Not Certified,Customer,65000
+Chevrolet Exclusive  2005 LS 0.8,PKR 7.8 lacs,780000,Rawalpindi,2005,"215,000km",Petrol,1000cc,Manual,Not Certified,Customer,215000
+KIA Picanto  2020 1.0 AT,PKR 27.75 lacs,2775000,Kohat,2020,"37,000km",Petrol,1000cc,Automatic,Not Certified,Customer,37000
+Suzuki Wagon R  2021 ,PKR 39 lacs,3900000,Karachi,2021,"41,000km",Hybrid,660cc,Automatic,Not Certified,Customer,41000
+Nissan Otti  2012 ,PKR 18 lacs,1800000,Islamabad,2012,"132,000km",Petrol,660cc,Automatic,Not Certified,Customer,132000
+Toyota Corolla  2015 Altis Automatic 1.6,PKR 39.7 lacs,3970000,Mardan,2015,"110,000km",Petrol,1600cc,Automatic,Not Certified,Customer,110000
+Hyundai Sonata  2024 2.5,PKR 1.2 crore,12000000,Islamabad,2024,50km,Petrol,2500cc,Automatic,Not Certified,Customer,50
+Suzuki Alto  2014 ECO-S,PKR 20 lacs,2000000,Karachi,2014,"88,000km",Petrol,660cc,Automatic,Not Certified,Customer,88000
+MG HS  2021 Trophy,PKR 61.75 lacs,6175000,Islamabad,2021,"59,000km",Petrol,1500cc,Automatic,Not Certified,Customer,59000
+Honda Vezel  2019 Hybrid Z Honda Sensing ,PKR 74 lacs,7400000,Gujranwala,2019,"78,040km",Hybrid,1500cc,Automatic,Certified,PakWheels,78040
+Toyota Corolla  2021 ,PKR 55 lacs,5500000,Haripur,2021,"37,810km",Petrol,1600cc,Automatic,Not Certified,Customer,37810
+Suzuki Cultus  2022 VXL,PKR 36.5 lacs,3650000,Multan,2022,"17,800km",Petrol,1000cc,Manual,Not Certified,Customer,17800
+Honda City 6th Generation 2021 1.2L M/T,PKR 42.85 lacs,4285000,Rawalpindi,2021,"34,000km",Petrol,1200cc,Manual,Not Certified,Customer,34000
+Toyota Corolla  2017 Altis Automatic 1.6,PKR 44.5 lacs,4450000,Peshawar,2017,"119,500km",Petrol,1600cc,Automatic,Not Certified,Customer,119500
+Suzuki Cultus  2002 VXR,PKR 6.1 lacs,610000,Karachi,2002,"92,000km",Petrol,1000cc,Manual,Not Certified,Customer,92000
+Toyota Corolla  2011 XLi VVTi,PKR 24.5 lacs,2450000,Rawalpindi,2011,"180,000km",Petrol,1300cc,Manual,Not Certified,Customer,180000
+Toyota Hilux  1992 Single Cab,PKR 20 lacs,2000000,Peshawar,1992,"199,999km",Petrol,2800cc,Manual,Not Certified,Customer,199999
+Suzuki Mehran  2017 VX Euro II,PKR 13.8 lacs,1380000,Lahore,2017,"47,762km",Petrol,800cc,Manual,Not Certified,Customer,47762
+Honda City 6th Generation 2021 1.2L CVT,PKR 41.65 lacs,4165000,Karachi,2021,"45,926km",Petrol,1200cc,Automatic,Not Certified,Customer,45926
+Suzuki Liana  2008 RXi,PKR 13.5 lacs,1350000,Hyderabad,2008,"122,385km",Petrol,1300cc,Manual,Not Certified,Customer,122385
+Honda City 5th (GM2) Generation 2018 Aspire 1.5 i-VTEC,PKR 32.5 lacs,3250000,Faisalabad,2018,"148,000km",Petrol,1500cc,Manual,Not Certified,Customer,148000
+Suzuki Margalla  1994 GL,PKR 6.5 lacs,650000,Hafizabad,1994,"65,000km",Petrol,1300cc,Manual,Not Certified,Customer,65000
+Toyota Corolla  2019 GLi Automatic 1.3 VVTi,PKR 46.5 lacs,4650000,Islamabad,2019,"99,000km",Petrol,1300cc,Automatic,Not Certified,Customer,99000
+Nissan Moco  2015 ,PKR 21.75 lacs,2175000,Lahore,2015,"68,000km",Petrol,660cc,Automatic,Not Certified,Customer,68000
+Honda City 6th Generation 2024 1.5L ASPIRE CVT,PKR 60.5 lacs,6050000,Islamabad,2024,50km,Petrol,1500cc,Automatic,Not Certified,Customer,50
+Toyota Corolla  2010 GLi 1.3 VVTi,PKR 20.5 lacs,2050000,Karachi,2010,"129,000km",Petrol,1300cc,Manual,Not Certified,Customer,129000
+Daihatsu Charade  1986 ,PKR 4.5 lacs,450000,Karachi,1986,"10,000km",Petrol,1000cc,Manual,Not Certified,Customer,10000
+Proton Saga  2022 1.3L Ace A/T,PKR 25.5 lacs,2550000,Islamabad,2022,"47,000km",Petrol,1300cc,Automatic,Not Certified,Customer,47000
+Peugeot 2008  2023 Allure,PKR 62 lacs,6200000,Lahore,2023,"28,000km",Petrol,1200cc,Automatic,Not Certified,Customer,28000
+Hyundai Elantra  2022 GLS,PKR 60.25 lacs,6025000,Karachi,2022,"43,900km",Petrol,2000cc,Automatic,Not Certified,Customer,43900
+Suzuki Swift  2022 GL CVT,PKR 39.5 lacs,3950000,Multan,2022,"52,000km",Petrol,1200cc,Automatic,Not Certified,Customer,52000
+Honda Civic  2021 Oriel 1.8 i-VTEC CVT,PKR 63 lacs,6300000,Layyah,2021,"30,000km",Petrol,1800cc,Automatic,Not Certified,Customer,30000
+Toyota Yaris  2015 ,PKR 33.5 lacs,3350000,MianWali,2015,"120,000km",Petrol,1300cc,Manual,Not Certified,Customer,120000
+Mitsubishi Lancer  2004 GL,PKR 13 lacs,1300000,Islamabad,2004,"125,000km",Petrol,1300cc,Manual,Not Certified,Customer,125000
+Honda Grace Hybrid 6th (GM4) Generation 2015 EX,PKR 42.5 lacs,4250000,Karachi,2015,"91,000km",Hybrid,1500cc,Automatic,Not Certified,Customer,91000
+Mitsubishi Lancer  1991 ,PKR 4.3 lacs,430000,Hyderabad,1991,"12,345km",LPG,1300cc,Manual,Not Certified,Customer,12345
+Honda City 6th Generation 2023 1.5L ASPIRE CVT,PKR 53.5 lacs,5350000,Lahore,2023,"23,000km",Petrol,1500cc,Automatic,Not Certified,Customer,23000
+Suzuki Swift  2019 DLX Automatic 1.3 Navigation,PKR 29.7 lacs,2970000,Lahore,2019,"74,464km",Petrol,1300cc,Automatic,Not Certified,PakWheels,74464
+Honda Civic  2021 Oriel 1.8 i-VTEC CVT,PKR 65 lacs,6500000,Islamabad,2021,"40,000km",Petrol,1800cc,Automatic,Not Certified,Customer,40000
+Honda Vezel  2014 ,PKR 47.5 lacs,4750000,Lahore,2014,"129,000km",Hybrid,1500cc,Automatic,Not Certified,Customer,129000
+Honda Civic  2017 Oriel 1.8 i-VTEC CVT,PKR 50.5 lacs,5050000,Islamabad,2017,"68,000km",Petrol,1800cc,Automatic,Not Certified,Customer,68000
+Honda Civic  2005 EXi,PKR 16 lacs,1600000,Sargodha,2005,"230,000km",Petrol,1500cc,Manual,Not Certified,Customer,230000
+Suzuki Alto  2007 VXR,PKR 7.5 lacs,750000,Karachi,2007,"161,528km",Petrol,1000cc,Manual,Not Certified,PakWheels,161528
+Honda Civic  2018 Oriel 1.8 i-VTEC CVT,PKR 50.5 lacs,5050000,Lahore,2018,"96,000km",Petrol,1800cc,Automatic,Not Certified,Customer,96000
+Suzuki Swift  2012 ,PKR 19.5 lacs,1950000,Lahore,2012,"165,000km",Petrol,1300cc,Manual,Not Certified,Customer,165000
+Suzuki Bolan  2020 VX Euro II,PKR 14 lacs,1400000,Karachi,2020,"132,000km",Petrol,800cc,Manual,Not Certified,Customer,132000
+Daihatsu Mira  2013 ES,PKR 19.95 lacs,1995000,Karachi,2013,"96,000km",Petrol,660cc,Automatic,Not Certified,Customer,96000
+Toyota Aqua  2013 ,PKR 41.7 lacs,4170000,Islamabad,2013,"95,000km",Hybrid,1500cc,Automatic,Not Certified,Customer,95000
+Daihatsu Hijet  2010 Cruise,PKR 12.4 lacs,1240000,Mardan,2010,"70,000km",Petrol,660cc,Automatic,Not Certified,Customer,70000
+Toyota Corolla Cross  2024 1.8 X,PKR 84.5 lacs,8450000,Islamabad,2024,80km,Petrol,1800cc,Automatic,Not Certified,Customer,80
+Suzuki Bolan  2013 ,PKR 12.5 lacs,1250000,Abbottabad,2013,"89,464km",Petrol,800cc,Manual,Not Certified,Customer,89464
+Honda Civic EK 1999 VTi Automatic 1.6,PKR 12 lacs,1200000,Faisalabad,1999,"250,000km",Petrol,1600cc,Automatic,Not Certified,Customer,250000
+Honda City 5th (GM2) Generation 2020 1.5 i-VTEC Prosmatec,PKR 41 lacs,4100000,Lahore,2020,"49,500km",Petrol,1500cc,Automatic,Not Certified,Customer,49500
+Suzuki Swift  2022 GLX CVT,PKR 46 lacs,4600000,Lahore,2022,"4,800km",Petrol,1200cc,Automatic,Not Certified,Customer,4800
+Toyota Corolla  2021 Altis X Automatic 1.6,PKR 57 lacs,5700000,Islamabad,2021,"35,000km",Petrol,1598cc,Automatic,Not Certified,Customer,35000
+Toyota Corolla 8th (E110) Generation 1994 GLi 1.6,PKR 11.55 lacs,1155000,Lakkimarwat,1994,"320,000km",Petrol,1600cc,Manual,Not Certified,Customer,320000
+Toyota Corolla  2017 GLi Automatic 1.3 VVTi,PKR 41.75 lacs,4175000,Lahore,2017,"95,000km",Petrol,1300cc,Automatic,Not Certified,Customer,95000
+Proton Saga  2022 1.3L Ace A/T,PKR 33.5 lacs,3350000,Hyderabad,2022,"14,000km",Petrol,1299cc,Automatic,Not Certified,Customer,14000
+Toyota Aqua  2015 X Urban,PKR 42 lacs,4200000,Karachi,2015,"130,000km",Hybrid,1500cc,Automatic,Not Certified,Customer,130000
+Suzuki Mehran  2012 VX Euro II,PKR 11 lacs,1100000,Islamabad,2012,"65,000km",Petrol,796cc,Manual,Not Certified,Customer,65000
+Honda Fit  2006 ,PKR 19.95 lacs,1995000,Islamabad,2006,"87,000km",Petrol,1500cc,Automatic,Not Certified,Customer,87000
+Honda Civic  2018 Oriel 1.8 i-VTEC CVT,PKR 52.25 lacs,5225000,Karachi,2018,"49,000km",Petrol,1800cc,Automatic,Not Certified,Customer,49000
+Honda Civic  2009 VTi Oriel Prosmatec 1.8 i-VTEC,PKR 27.5 lacs,2750000,Bahawalpur,2009,"132,000km",Petrol,1800cc,Automatic,Not Certified,Customer,132000
+Honda Insight  2010 G,PKR 27.5 lacs,2750000,Islamabad,2010,"160,000km",Hybrid,1300cc,Automatic,Not Certified,Customer,160000
+Suzuki Wagon R  2018 VXL,PKR 22.6 lacs,2260000,Faisalabad,2018,"100,000km",Petrol,1000cc,Manual,Not Certified,Customer,100000
+Honda City  2012 1.3 i-VTEC Prosmatec,PKR 28.5 lacs,2850000,Attock,2012,"151,000km",Petrol,1300cc,Automatic,Not Certified,Customer,151000
+Suzuki Swift  2011 DX 1.3,PKR 20 lacs,2000000,Lahore,2011,"164,000km",Petrol,1300cc,Manual,Not Certified,Customer,164000
+Toyota Corolla  2013 XLi VVTi,PKR 27.5 lacs,2750000,Rawalpindi,2013,"164,000km",Petrol,1300cc,Manual,Not Certified,Customer,164000
+Toyota Sienta  2024 G,PKR 60 lacs,6000000,Gujranwala,2024,"90,000km",Petrol,1500cc,Automatic,Not Certified,Customer,90000
+Toyota Passo  2019 X,PKR 42.5 lacs,4250000,Islamabad,2019,"66,000km",Petrol,1000cc,Automatic,Not Certified,Customer,66000
+Toyota Fortuner  2018 2.7 VVTi,PKR 1.12 crore,11200000,Karachi,2018,"76,500km",Petrol,2700cc,Automatic,Not Certified,Customer,76500
+Toyota Vitz  2018 1.0F Safety Edition III,PKR 42 lacs,4200000,Islamabad,2018,"89,000km",Petrol,1000cc,Automatic,Not Certified,Customer,89000
+Toyota Corolla  2021 Altis X Automatic 1.6,PKR 53.25 lacs,5325000,Karachi,2021,"41,000km",Petrol,1598cc,Automatic,Not Certified,Customer,41000
+Suzuki Alto  2012 E,PKR 24.5 lacs,2450000,Lahore,2012,"70,000km",Petrol,660cc,Automatic,Not Certified,Customer,70000
+Daihatsu Charade  1984 ,PKR 1.7 lacs,170000,Karachi,1984,"2,000km",Petrol,1000cc,Manual,Not Certified,Customer,2000
+Suzuki Alto  2009 VXR,PKR 11.5 lacs,1150000,Lahore,2009,"50,000km",Petrol,1000cc,Manual,Not Certified,Customer,50000
+Toyota Corolla 9th (E120) Generation 2004 2.0D Saloon,PKR 13.95 lacs,1395000,Lahore,2004,"150,000km",Petrol,2000cc,Manual,Not Certified,Customer,150000
+Isuzu NKR  2017 ,PKR 42 lacs,4200000,Islamabad,2017,"520,000km",Diesel,2800cc,Manual,Not Certified,Customer,520000
+Suzuki Cultus  2002 VXR,PKR 9.8 lacs,980000,Karachi,2002,"60,805km",Petrol,1000cc,Manual,Not Certified,Customer,60805
+Toyota Vitz  2018 F M Package 1.0,PKR 40 lacs,4000000,Karachi,2018,"59,000km",Petrol,996cc,Automatic,Not Certified,Customer,59000
+Toyota Corolla  1987 ,PKR 10 lacs,1000000,Abbottabad,1987,"300,000km",Petrol,1800cc,Automatic,Not Certified,Customer,300000
+Honda Civic Reborn 2010 VTi Oriel Prosmatec 1.8 i-VTEC,PKR 22.6 lacs,2260000,Gojra,2010,"85,000km",Petrol,1800cc,Automatic,Not Certified,Customer,85000
+Suzuki Every  2020 PA,PKR 25.9 lacs,2590000,Gujranwala,2020,"143,000km",Petrol,660cc,Automatic,Not Certified,Customer,143000
+Daihatsu Mira  2012 X Memorial Edition,PKR 21 lacs,2100000,Karachi,2012,"94,000km",Petrol,660cc,Automatic,Not Certified,Customer,94000
+DFSK Glory 580  2021 Pro,PKR 45.5 lacs,4550000,Karachi,2021,"32,870km",Petrol,1500cc,Automatic,Certified,PakWheels,32870
+Changan Karvaan  2024 Plus 1.2,PKR 31.25 lacs,3125000,Karachi,2024,5km,Petrol,1200cc,Manual,Not Certified,Customer,5
+Honda City  2000 EXi,PKR 10 lacs,1000000,Lahore,2000,"248,000km",Petrol,1300cc,Manual,Not Certified,Customer,248000
+Mazda Titan  1982 ,PKR 25 lacs,2500000,Lahore,1982,"8,000km",Diesel,2800cc,Manual,Not Certified,Customer,8000
+Honda City 5th (GM2) Generation 2011 1.3 i-VTEC,PKR 25 lacs,2500000,Islamabad,2011,"351,025km",Petrol,1300cc,Manual,Not Certified,Customer,351025
+Honda City 5th (GM2) Generation 2021 Aspire Prosmatec 1.5 i-VTEC,PKR 42.2 lacs,4220000,Abbottabad,2021,"35,000km",Petrol,1500cc,Automatic,Not Certified,Customer,35000
+Toyota Land Cruiser  2015 ZX,PKR 3.6 crore,36000000,Karachi,2015,"44,000km",Petrol,4600cc,Automatic,Not Certified,Customer,44000
+Toyota Passo  2007 G 1.0,PKR 18.85 lacs,1885000,Islamabad,2007,"150,000km",Petrol,1000cc,Automatic,Not Certified,Customer,150000
+DFSK Glory 580  2021 Pro,PKR 47 lacs,4700000,Lahore,2021,"47,000km",Petrol,1500cc,Automatic,Not Certified,Customer,47000
+Toyota Corolla  1988 SE,PKR 9.5 lacs,950000,Abbottabad,1988,"110,000km",Petrol,1500cc,Automatic,Not Certified,Customer,110000
+Suzuki Wagon R  2018 VXL,PKR 21.5 lacs,2150000,Hasilpur,2018,"88,000km",Petrol,1000cc,Manual,Not Certified,Customer,88000
+Chery Tiggo 8 Pro  2022 1.6 DEX Plus,PKR 85 lacs,8500000,Burewala,2022,"26,000km",Petrol,1600cc,Automatic,Not Certified,Customer,26000
+Toyota Aqua  2013 S,PKR 32.8 lacs,3279999,Peshawar,2013,"200,800km",Hybrid,1500cc,Automatic,Not Certified,Customer,200800
+Toyota C-HR  2019 S-GR Package,PKR 1.05 crore,10500000,Karachi,2019,"29,000km",Hybrid,1800cc,Automatic,Not Certified,Customer,29000
+Daihatsu Mira  2021 G SA III,PKR 42.5 lacs,4250000,Lahore,2021,"2,300km",Petrol,660cc,Automatic,Not Certified,Customer,2300
+Daihatsu Cuore  2006 CX Automatic,PKR 10.7 lacs,1070000,Karachi,2006,"300,000km",Petrol,800cc,Automatic,Not Certified,Customer,300000
+Suzuki Mehran  2017 VX Euro II Limited Edition,PKR 12.8 lacs,1280000,Lahore,2017,"71,000km",Petrol,796cc,Manual,Not Certified,Customer,71000
+Suzuki Bolan  2012 VX Euro II,PKR 12.15 lacs,1215000,Jhelum,2012,"61,000km",Petrol,800cc,Manual,Not Certified,Customer,61000
+Toyota Corolla Axio  2018 WXB,PKR 78 lacs,7800000,Karachi,2018,"47,500km",Petrol,1500cc,Automatic,Not Certified,Customer,47500
+Daihatsu Cuore  2009 CX,PKR 8.3 lacs,830000,Karachi,2009,1km,Petrol,800cc,Manual,Not Certified,Customer,1
+Suzuki Vitara  2017 GL+ 1.6,PKR 43.9 lacs,4390000,Islamabad,2017,"99,000km",Petrol,1600cc,Automatic,Not Certified,Customer,99000
+Suzuki Mehran  2017 VXR Euro II,PKR 14.15 lacs,1415000,Rawalpindi,2017,"70,000km",Petrol,796cc,Manual,Not Certified,Customer,70000
+Toyota Corolla Fielder  2012 X Light,PKR 36.5 lacs,3650000,Quetta,2012,"170,000km",Petrol,1500cc,Automatic,Not Certified,Customer,170000
+Hyundai Tucson  2022 AWD A/T Ultimate,PKR 78.75 lacs,7875000,Lahore,2022,"33,000km",Petrol,2000cc,Automatic,Not Certified,Customer,33000
+Toyota Corolla  2016 GLi Automatic 1.3 VVTi,PKR 37.5 lacs,3750000,Lahore,2016,"88,000km",Petrol,1300cc,Automatic,Not Certified,Customer,88000
+Suzuki Mehran  2005 VXR (CNG),PKR 5.25 lacs,525000,Karachi,2005,"10,000km",Petrol,800cc,Manual,Not Certified,Customer,10000
+Toyota Passo  2023 X S ,PKR 45 lacs,4500000,Lahore,2023,"3,000km",Petrol,1000cc,Automatic,Not Certified,Customer,3000
+Suzuki Alto  2001 ,PKR 5.25 lacs,525000,Karachi,2001,"99,000km",Petrol,1000cc,Manual,Not Certified,Customer,99000
+Honda Civic  2021 Oriel 1.8 i-VTEC CVT,PKR 66.5 lacs,6650000,Peshawar,2021,"49,000km",Petrol,1800cc,Automatic,Not Certified,Customer,49000
+Suzuki Alto  2019 VXR,PKR 20.75 lacs,2075000,Nankanasahib,2019,"91,823km",Petrol,660cc,Manual,Not Certified,Customer,91823
+Honda Civic Reborn 2010 VTi 1.8 i-VTEC,PKR 23.25 lacs,2325000,Lahore,2010,"150,000km",Petrol,1800cc,Manual,Not Certified,Customer,150000
+Toyota Corolla Fielder  2006 ,PKR 28 lacs,2800000,Karak,2006,"200,000km",Petrol,1500cc,Automatic,Not Certified,Customer,200000
+Suzuki Khyber  1996 GA,PKR 6.9 lacs,690000,Islamabad,1996,"85,000km",Petrol,1000cc,Manual,Not Certified,Customer,85000
+Suzuki Mehran  2017 VXR Euro II,PKR 13.8 lacs,1380000,Islamabad,2017,"38,000km",Petrol,796cc,Manual,Not Certified,Customer,38000
+Toyota Corolla  2015 XLi VVTi,PKR 35 lacs,3500000,Sialkot,2015,786km,Petrol,1300cc,Manual,Not Certified,Customer,786
+Honda Civic  2006 VTi Oriel 1.6,PKR 18.75 lacs,1875000,Islamabad,2006,"150,000km",Petrol,1600cc,Manual,Not Certified,Customer,150000
+Toyota Corolla  2017 Altis Automatic 1.6,PKR 39.7 lacs,3970000,Gujranwala,2017,"80,000km",Petrol,1600cc,Automatic,Not Certified,Customer,80000
+Toyota Land Cruiser  1994 ,PKR 36.5 lacs,3650000,Islamabad,1994,"176,000km",Diesel,3000cc,Automatic,Not Certified,Customer,176000
+Honda City 5th (GM2) Generation 2017 1.3 i-VTEC,PKR 32 lacs,3200000,Islamabad,2017,"85,000km",Petrol,1300cc,Manual,Not Certified,Customer,85000
+Toyota Camry 4th (XV40) Generation 2006 Up-Spec Automatic 2.4,PKR 29.5 lacs,2950000,Islamabad,2006,"98,000km",Petrol,2400cc,Automatic,Not Certified,Customer,98000
+Honda City  2020 1.3 i-VTEC Prosmatec,PKR 36.5 lacs,3650000,Karachi,2020,"68,000km",Petrol,1300cc,Automatic,Not Certified,Customer,68000
+Suzuki Alto  2019 VXR,PKR 21 lacs,2100000,Islamabad,2019,"100,000km",Petrol,660cc,Manual,Not Certified,Customer,100000
+Honda Civic Reborn 2011 VTi Oriel Prosmatec 1.8 i-VTEC,PKR 26 lacs,2600000,Karachi,2011,"91,556km",Petrol,1800cc,Automatic,Not Certified,PakWheels,91556
+Toyota Corolla  2018 GLi Automatic 1.3 VVTi,PKR 46 lacs,4600000,Lahore,2018,"50,300km",Petrol,1300cc,Automatic,Not Certified,Customer,50300
+Honda City  2015 Aspire Prosmatec 1.3 i-VTEC,PKR 33.5 lacs,3350000,Islamabad,2015,"81,000km",Petrol,1300cc,Automatic,Not Certified,Customer,81000
+Mercedes Benz E Class 5th (W213) Generation 2021 E200 AMG,PKR 3.65 crore,36500000,Islamabad,2021,"8,000km",Petrol,1991cc,Automatic,Not Certified,Customer,8000
+Honda City 5th (GM2) Generation 2019 1.3 i-VTEC,PKR 35.5 lacs,3550000,Bhalwal,2019,"68,000km",Petrol,1300cc,Manual,Not Certified,Customer,68000
+Hyundai Elantra  2022 Limited,PKR 59 lacs,5900000,Lahore,2022,"34,000km",Petrol,2000cc,Automatic,Not Certified,Customer,34000
+Honda Civic  2012 VTi Oriel 1.8 i-VTEC,PKR 28 lacs,2800000,Lahore,2012,"110,000km",Petrol,1800cc,Manual,Not Certified,Customer,110000
+Daihatsu Mira  2019 X SA lll,PKR 31.5 lacs,3150000,Karachi,2019,"29,000km",Petrol,660cc,Automatic,Not Certified,Customer,29000
+Honda City 5th (GM2) Generation 2019 Aspire Prosmatec 1.5 i-VTEC,PKR 39 lacs,3900000,Karachi,2019,"52,000km",Petrol,1500cc,Automatic,Not Certified,Customer,52000
+Nissan Dayz  2014 Highway Star G,PKR 23.39 lacs,2339000,Karachi,2014,"84,000km",Petrol,660cc,Automatic,Not Certified,Customer,84000
+Toyota Aqua  2012 S,PKR 34.5 lacs,3450000,Karachi,2012,"140,000km",Hybrid,1500cc,Automatic,Not Certified,Customer,140000
+Honda Accord  2003 CL7,PKR 20 lacs,2000000,Rawalpindi,2003,"220,000km",Petrol,2000cc,Automatic,Not Certified,Customer,220000
+Suzuki Margalla  1993 GL,PKR 4 lacs,400000,Bahawalpur,1993,"5,000km",Petrol,1300cc,Manual,Not Certified,Customer,5000
+Haval H6  2024 HEV,PKR 1.26 crore,12600000,Islamabad,2024,100km,Hybrid,1500cc,Automatic,Not Certified,Customer,100
+Mercedes Benz C Class  2021 C 180 Cabriolet,PKR 3.15 crore,31500000,Karachi,2021,"12,832km",Petrol,1600cc,Automatic,Not Certified,Customer,12832
+Toyota Prius  2011 S 1.5,PKR 31 lacs,3100000,Karachi,2011,"118,000km",Hybrid,1500cc,Automatic,Not Certified,Customer,118000
+Toyota Corolla  2021 Altis Grande X CVT-i 1.8 Black Interior,PKR 63 lacs,6300000,Peshawar,2021,"58,000km",Petrol,1800cc,Automatic,Not Certified,Customer,58000
+Toyota Prado  2024 VX First Edition,PKR 7.25 crore,72500000,Lahore,2024,1km,Petrol,2700cc,Automatic,Not Certified,Customer,1
+Toyota Vitz  2008 F 1.0,PKR 21.5 lacs,2150000,Peshawar,2008,"100,000km",Petrol,1000cc,Automatic,Not Certified,Customer,100000
+Honda City  2017 1.5 i-VTEC,PKR 35.75 lacs,3575000,Sargodha,2017,"71,900km",Petrol,1500cc,Manual,Not Certified,Customer,71900
+Tesla Model 3  2021 Long Range,PKR 1.75 crore,17500000,Lahore,2021,"14,000km",Electric,75.0kWh,Automatic,Not Certified,Customer,14000
+Suzuki Alto  2022 VXL AGS,PKR 28 lacs,2800000,Vehari,2022,"53,000km",Petrol,660cc,Automatic,Not Certified,Customer,53000
+Suzuki Alto  2022 VX,PKR 23.35 lacs,2335000,Sialkot,2022,"6,800km",Petrol,660cc,Manual,Not Certified,Customer,6800
+Toyota Corolla  2012 XLi VVTi,PKR 26 lacs,2600000,Chakwal,2012,"163,280km",Petrol,1300cc,Manual,Not Certified,Customer,163280
+Mercedes Benz E Class 5th (W213) Generation 2021 E200 Sports,PKR 3.85 crore,38500000,Karachi,2021,"29,349km",Petrol,2000cc,Automatic,Not Certified,Customer,29349
+Range Rover Vogue  2019 P400e,PKR 6.75 crore,67500000,Gujranwala,2019,"43,000km",Petrol,1997cc,Automatic,Not Certified,Customer,43000
+Toyota Fortuner  2022 Legender ,PKR 1.85 crore,18500000,Gujranwala,2022,"12,000km",Diesel,2800cc,Automatic,Not Certified,Customer,12000
+Suzuki Alto  2001 VXR,PKR 8.5 lacs,850000,Islamabad,2001,"195,000km",Petrol,1000cc,Manual,Not Certified,Customer,195000
+Toyota Hilux  2023 Revo Rocco,PKR 1.47 crore,14700000,Multan,2023,"21,000km",Diesel,2800cc,Automatic,Not Certified,Customer,21000
+Honda Civic  2012 VTi Oriel Prosmatec 1.8 i-VTEC,PKR 32 lacs,3200000,Multan,2012,"80,000km",Petrol,1800cc,Automatic,Not Certified,Customer,80000
+Daihatsu Storia  2003 ,PKR 10.75 lacs,1075000,Peshawar,2003,"23,000km",Petrol,660cc,Automatic,Not Certified,Customer,23000
+Suzuki Alto  2022 VXR,PKR 23.75 lacs,2375000,Lahore,2022,"51,000km",Petrol,660cc,Manual,Not Certified,Customer,51000
+Toyota Corolla  2010 GLi 1.3 VVTi,PKR 22.2 lacs,2220000,Yazmanmandi,2010,"150,000km",Petrol,1300cc,Manual,Not Certified,Customer,150000
+Honda City  2005 i-DSI Vario,PKR 19 lacs,1900000,Lahore,2005,"150,000km",Petrol,1300cc,Automatic,Not Certified,Customer,150000
+Toyota Corolla  2017 Altis Grande CVT-i 1.8,PKR 46 lacs,4600000,Faisalabad,2017,"80,000km",Petrol,1800cc,Automatic,Not Certified,Customer,80000
+Toyota Corolla  2021 Altis X Automatic 1.6,PKR 60.5 lacs,6050000,Mandibahauddin,2021,"46,000km",Petrol,1598cc,Automatic,Not Certified,Customer,46000
+Daihatsu Cast  2019 Style G SA III,PKR 33.5 lacs,3350000,Islamabad,2019,"18,000km",Petrol,660cc,Automatic,Not Certified,Customer,18000
+Toyota Corolla  2012 Altis 1.6,PKR 29 lacs,2900000,Faisalabad,2012,"125,131km",Petrol,1600cc,Manual,Not Certified,PakWheels,125131
+Suzuki Wagon R  2018 VXL,PKR 23.5 lacs,2350000,Bahawalpur,2018,"87,000km",Petrol,1000cc,Manual,Not Certified,Customer,87000
+Toyota Corolla  2019 XLi Automatic,PKR 46.5 lacs,4650000,Peshawar,2019,"105,000km",Petrol,1300cc,Automatic,Not Certified,Customer,105000
+Suzuki Swift  2022 GL CVT,PKR 41.5 lacs,4150000,Sialkot,2022,"20,856km",Petrol,1200cc,Automatic,Not Certified,Customer,20856
+Mercedes Benz E Class 3rd (W211) Generation 2007 E200,PKR 70 lacs,7000000,Sialkot,2007,"77,000km",Petrol,1800cc,Automatic,Not Certified,Customer,77000
+Suzuki Mehran  2017 VXR Euro II,PKR 13.3 lacs,1330000,Gujranwala,2017,"64,000km",Petrol,800cc,Manual,Not Certified,Customer,64000
+Toyota Corolla  2009 XLi VVTi,PKR 22 lacs,2200000,Kharian,2009,"281,500km",Petrol,1300cc,Manual,Not Certified,Customer,281500
+Suzuki Mehran  2012 VX,PKR 8.5 lacs,850000,Sahiwal,2012,"80,000km",Petrol,800cc,Manual,Not Certified,Customer,80000
+Honda N Wgn  2014 Custom G L Package,PKR 24.5 lacs,2450000,Lahore,2014,"72,000km",Petrol,660cc,Automatic,Not Certified,Customer,72000
+Suzuki Liana  2006 AXi,PKR 10 lacs,1000000,Deraismailkhan,2006,111km,Petrol,1600cc,Manual,Not Certified,Customer,111
+Suzuki Alto  2014 ECO-S,PKR 24 lacs,2400000,Peshawar,2014,"25,000km",Petrol,660cc,Automatic,Not Certified,Customer,25000
+Honda Civic  2017 Oriel 1.8 i-VTEC CVT,PKR 43.95 lacs,4395000,Karachi,2017,"720,000km",Petrol,1800cc,Automatic,Not Certified,Customer,720000
+Daihatsu Move  2014 Custom L,PKR 22.75 lacs,2275000,Islamabad,2014,"187,000km",Petrol,660cc,Automatic,Not Certified,Customer,187000
+Honda Civic  2020 Oriel 1.8 i-VTEC CVT,PKR 60.5 lacs,6050000,Rawalpindi,2020,"84,000km",Petrol,1800cc,Automatic,Not Certified,Customer,84000
+Hyundai Sonata  2023 2.5,PKR 1.16 crore,11600000,Lahore,2023,"1,600km",Petrol,2500cc,Automatic,Not Certified,Customer,1600
+Suzuki Mehran  2008 VXR,PKR 8.7 lacs,869999,Islamabad,2008,"100,000km",Petrol,800cc,Manual,Not Certified,Customer,100000
+Honda Civic  1997 VTi 1.6,PKR 9 lacs,900000,Karachi,1997,"95,000km",Petrol,1600cc,Manual,Not Certified,Customer,95000
+BMW 2 Series  2020 ,PKR 1.7 crore,17000000,Lahore,2020,"57,000km",Petrol,1500cc,Automatic,Not Certified,Customer,57000
+KIA Sportage  2021 AWD,PKR 70.5 lacs,7050000,Hyderabad,2021,"37,900km",Petrol,2000cc,Automatic,Not Certified,Customer,37900
+Suzuki Mehran  1998 VXR,PKR 4.6 lacs,459999,Faisalabad,1998,"60,000km",Petrol,800cc,Manual,Not Certified,Customer,60000
+MG 4  2023 Essence,PKR 1.26 crore,12600000,Lahore,2023,"4,000km",Electric,64.0kWh,Automatic,Not Certified,Customer,4000
+Honda City  2000 EXi S Automatic,PKR 10.75 lacs,1075000,Karachi,2000,"11,870km",Petrol,1500cc,Automatic,Not Certified,Customer,11870
+Mitsubishi Mirage  2014 ,PKR 23.95 lacs,2395000,Lahore,2014,"151,500km",Petrol,1000cc,Automatic,Not Certified,Customer,151500
+Suzuki Mehran  2002 ,PKR 4 lacs,400000,Islamabad,2002,"92,000km",Petrol,800cc,Manual,Not Certified,Customer,92000
+Suzuki Alto  2012 VXR (CNG),PKR 11.75 lacs,1175000,Lahore,2012,"98,000km",Petrol,1000cc,Manual,Not Certified,Customer,98000
+Nissan Roox  2021 S Hybrid,PKR 38 lacs,3800000,Faisalabad,2021,"20,000km",Hybrid,660cc,Automatic,Not Certified,Customer,20000
+Mazda Titan  1989 ,PKR 36 lacs,3600000,Murree,1989,"200,000km",Diesel,3500cc,Manual,Not Certified,Customer,200000
+Suzuki Cultus  2022 VXR,PKR 32.8 lacs,3279999,Rawalpindi,2022,"40,000km",Petrol,1000cc,Manual,Not Certified,Customer,40000
+Honda Vezel  2016 Hybrid Z Honda Sensing ,PKR 48.5 lacs,4850000,Islamabad,2016,"85,000km",Hybrid,1500cc,Automatic,Not Certified,Customer,85000
+Honda Civic Eagle Eye 2005 VTi Oriel 1.6,PKR 16 lacs,1600000,Islamabad,2005,"120,000km",Petrol,1600cc,Manual,Not Certified,Customer,120000
+Nissan Serena  2019 e-POWER,PKR 57.95 lacs,5795000,Lahore,2019,"64,000km",Hybrid,1200cc,Automatic,Not Certified,Customer,64000
+Toyota Hiace  2016 ,PKR 35 lacs,3500000,Multan,2016,"100,000km",Petrol,2700cc,Automatic,Not Certified,Customer,100000
+Daihatsu Mira  2020 Tocot,PKR 31 lacs,3100000,TobaTekSingh,2020,"40,000km",Petrol,660cc,Automatic,Not Certified,Customer,40000
+Suzuki Baleno  2000 GLi,PKR 8.5 lacs,850000,Mansehra,2000,555km,Petrol,1300cc,Manual,Not Certified,Customer,555
+Honda Civic EG 1995 EX,PKR 7.3 lacs,730000,Lahore,1995,"150,000km",Petrol,1500cc,Manual,Not Certified,Customer,150000
+Honda BR-V  2017 i-VTEC,PKR 40 lacs,4000000,Karachi,2017,"58,000km",Petrol,1500cc,Automatic,Not Certified,Customer,58000
+Toyota Corolla  2019 GLi Automatic 1.3 VVTi,PKR 44.5 lacs,4450000,Karachi,2019,"223,668km",Petrol,1300cc,Automatic,Not Certified,PakWheels,223668
+Mitsubishi Pajero  1986 Exceed 2.5D,PKR 11.5 lacs,1150000,Rawalpindi,1986,542km,Diesel,2500cc,Manual,Not Certified,Customer,542
+Suzuki Mehran  2018 VXR Euro II,PKR 14.5 lacs,1450000,Okara,2018,"19,692km",Petrol,796cc,Manual,Not Certified,Customer,19692
+Honda Civic Reborn 2007 MXB (Hybrid),PKR 23.5 lacs,2350000,Islamabad,2007,"291,952km",Hybrid,1300cc,Automatic,Not Certified,Customer,291952
+Honda Life  2012 G,PKR 19.9 lacs,1989999,Jhelum,2012,"225,000km",Petrol,660cc,Automatic,Not Certified,Customer,225000
+Suzuki Margalla  1994 GL,PKR 5.1 lacs,509999,Lahore,1994,"100,000km",Petrol,1300cc,Manual,Not Certified,Customer,100000
+Suzuki Cultus  2006 VXR,PKR 10.9 lacs,1090000,Gujrat,2006,"60,000km",Petrol,1000cc,Manual,Not Certified,Customer,60000
+Audi A4  2019 35 TFSI,PKR 1.25 crore,12500000,Lahore,2019,"125,660km",Petrol,2000cc,Automatic,Not Certified,Customer,125660
+Suzuki Alto  2021 S Package,PKR 35.5 lacs,3550000,Karachi,2021,"16,000km",Petrol,660cc,Automatic,Not Certified,Customer,16000
+Daewoo Racer  1993 ,PKR 3.2 lacs,320000,Gujranwala,1993,"10,000km",Petrol,1600cc,Manual,Not Certified,Customer,10000
+Daihatsu Mira  2016 ES,PKR 25.05 lacs,2505000,Karachi,2016,"63,000km",Petrol,660cc,Automatic,Not Certified,Customer,63000
+Suzuki Bolan  2022 VX Euro II,PKR 21.5 lacs,2150000,GujarKhan,2022,"47,709km",Petrol,800cc,Manual,Not Certified,Customer,47709
+Hyundai Elantra  2023 GLS,PKR 66 lacs,6600000,Karachi,2023,"11,500km",Petrol,2000cc,Automatic,Not Certified,Customer,11500
+Honda Civic Rebirth 2015 VTi Oriel Prosmatec 1.8 i-VTEC,PKR 37 lacs,3700000,MuzaffarGargh,2015,"12,500km",Petrol,1800cc,Automatic,Not Certified,Customer,12500
+Toyota Camry  2007 G,PKR 29 lacs,2900000,Lahore,2007,"68,000km",Petrol,2400cc,Automatic,Not Certified,Customer,68000
+Honda Life  2014 C Special Edition Comfort Special,PKR 18.5 lacs,1850000,Lahore,2014,"150,000km",Petrol,660cc,Automatic,Not Certified,Customer,150000
+Toyota Corolla  2011 GLi Automatic 1.6 VVTi,PKR 26.5 lacs,2650000,Karachi,2011,"167,000km",Petrol,1600cc,Automatic,Not Certified,Customer,167000
+Suzuki Swift  2018 DLX Automatic 1.3 Navigation,PKR 25.75 lacs,2575000,Lahore,2018,"136,000km",Petrol,1300cc,Automatic,Not Certified,Customer,136000
+Toyota Vitz  2007 F 1.0,PKR 18.25 lacs,1825000,Karachi,2007,"160,000km",Petrol,1000cc,Automatic,Not Certified,Customer,160000
+Daihatsu Move  2023 ,PKR 32 lacs,3200000,Hafizabad,2023,"4,500km",Petrol,660cc,Automatic,Not Certified,Customer,4500
+Daihatsu Mira  2014 X Memorial Edition,PKR 25.5 lacs,2550000,Karachi,2014,"58,000km",Petrol,660cc,Automatic,Not Certified,Customer,58000
+Suzuki Mehran  2019 VXR Euro II,PKR 14.9 lacs,1490000,Lahore,2019,"85,000km",Petrol,800cc,Manual,Not Certified,Customer,85000
+Suzuki Wagon R  2015 Stingray J Style,PKR 23.5 lacs,2350000,Karachi,2015,"100,700km",Petrol,660cc,Automatic,Not Certified,Customer,100700
+Toyota Prius  2011 S 1.8,PKR 43.5 lacs,4350000,Islamabad,2011,"123,456km",Hybrid,1800cc,Automatic,Not Certified,Customer,123456
+Daihatsu Mira  2023 ,PKR 21.7 lacs,2170000,Lahore,2023,"88,000km",Petrol,660cc,Automatic,Not Certified,Customer,88000
+Suzuki Cultus  2003 VXR,PKR 8.2 lacs,819999,Mardan,2003,"97,000km",Petrol,1000cc,Manual,Not Certified,Customer,97000
+Toyota Hilux  2016 Vigo Champ G,PKR 70.5 lacs,7050000,Charsadda,2016,"115,000km",Diesel,2500cc,Automatic,Not Certified,Customer,115000
+Daihatsu Mira  2012 ES,PKR 8.3 lacs,830000,Quetta,2012,"180,000km",Petrol,660cc,Automatic,Not Certified,Customer,180000
+Suzuki Wagon R  2019 VXL,PKR 24 lacs,2400000,Gujrat,2019,"150,000km",Petrol,1000cc,Manual,Not Certified,Customer,150000
+KIA Sportage  2021 AWD,PKR 74 lacs,7400000,Karachi,2021,"26,000km",Petrol,2000cc,Automatic,Not Certified,Customer,26000
+Honda City  2000 EXi S Automatic,PKR 9 lacs,900000,Karachi,2000,"100,000km",Petrol,1500cc,Automatic,Not Certified,Customer,100000
+Toyota Corolla  2020 Altis Grande CVT-i 1.8,PKR 58.85 lacs,5885000,Rawalpindi,2020,"94,700km",Petrol,1800cc,Automatic,Not Certified,Customer,94700
+Suzuki Cultus  2005 VXR (CNG),PKR 6.95 lacs,695000,Lahore,2005,"150,000km",Petrol,1000cc,Manual,Not Certified,Customer,150000
+Suzuki Alto  2019 TURBO RS,PKR 31.5 lacs,3150000,Peshawar,2019,"100,000km",Petrol,660cc,Automatic,Not Certified,Customer,100000
+Toyota Corolla  2015 GLi Automatic 1.3 VVTi,PKR 36 lacs,3600000,Sahiwal,2015,"120,000km",Petrol,1300cc,Automatic,Not Certified,Customer,120000
+Honda Grace Hybrid  2015 EX Honda Sensing,PKR 44 lacs,4400000,Islamabad,2015,"93,112km",Hybrid,1500cc,Automatic,Not Certified,Customer,93112
+Toyota Corolla  2022 Altis X Manual 1.6,PKR 56 lacs,5600000,Karachi,2022,"11,000km",Petrol,1600cc,Manual,Not Certified,Customer,11000
+KIA Sportage  2021 AWD,PKR 71 lacs,7100000,Hasilpur,2021,"51,000km",Petrol,2000cc,Automatic,Not Certified,Customer,51000
+Suzuki Alto  2021 VXL AGS,PKR 23.75 lacs,2375000,Karachi,2021,"58,800km",Petrol,660cc,Automatic,Not Certified,Customer,58800
+Suzuki Every Wagon  2020 PZ Turbo Special,PKR 33 lacs,3300000,Gujranwala,2020,"37,000km",Petrol,660cc,Automatic,Not Certified,Customer,37000
+Honda Civic  2021 Oriel 1.8 i-VTEC CVT,PKR 65.8 lacs,6580000,Peshawar,2021,"37,000km",Petrol,1800cc,Automatic,Not Certified,Customer,37000
+Toyota Fortuner  2018 2.7 VVTi,PKR 1.18 crore,11800000,Lahore,2018,"56,000km",Petrol,2700cc,Automatic,Not Certified,Customer,56000
+Toyota Corolla  2019 Altis Grande CVT-i 1.8,PKR 55.4 lacs,5540000,Multan,2019,"68,547km",Petrol,1800cc,Automatic,Not Certified,Customer,68547
+Honda Thats  2013 ,PKR 17 lacs,1700000,Lahore,2013,"200,000km",Petrol,660cc,Automatic,Not Certified,Customer,200000
+Honda Civic  2020 Oriel 1.8 i-VTEC CVT,PKR 62 lacs,6200000,Karachi,2020,"41,000km",Petrol,1800cc,Automatic,Not Certified,Customer,41000
+Toyota Vitz  2015 ,PKR 29 lacs,2900000,Karachi,2015,"80,000km",Petrol,1300cc,Automatic,Not Certified,Customer,80000
+Suzuki Wagon R  2018 VXL,PKR 19.95 lacs,1995000,Karachi,2018,"110,000km",Petrol,1000cc,Manual,Not Certified,Customer,110000
+Suzuki Mehran  2009 VX,PKR 11.2 lacs,1120000,Rawalpindi,2009,"44,000km",Petrol,800cc,Manual,Not Certified,Customer,44000
+Honda City  2015 Aspire Prosmatec 1.3 i-VTEC,PKR 32.1 lacs,3210000,Rawalpindi,2015,"99,000km",Petrol,1300cc,Automatic,Not Certified,Customer,99000
+Toyota Corolla  2017 ,PKR 42 lacs,4200000,Karachi,2017,68km,Petrol,1300cc,Manual,Not Certified,Customer,68
+Daihatsu Mira  2014 ES,PKR 24.75 lacs,2475000,Lahore,2014,"100,000km",Petrol,660cc,Automatic,Not Certified,Customer,100000
+Toyota Hilux  2020 Revo V Automatic 2.8,PKR 1.07 crore,10700000,Peshawar,2020,"78,945km",Diesel,2800cc,Automatic,Not Certified,Customer,78945
+Nissan Leaf  2021 ,PKR 74 lacs,7400000,Karachi,2021,"15,000km",Electric,45.0kWh,Automatic,Not Certified,Customer,15000
+Toyota Vitz  2007 F 1.3,PKR 23.4 lacs,2340000,Islamabad,2007,"136,000km",Petrol,1300cc,Automatic,Not Certified,Customer,136000
+Suzuki Mehran  2018 VX Euro II,PKR 13.5 lacs,1350000,Islamabad,2018,"95,000km",Petrol,800cc,Manual,Not Certified,Customer,95000
+Toyota Corolla  2018 Altis Grande CVT-i 1.8,PKR 59.25 lacs,5925000,Islamabad,2018,"57,409km",Petrol,1800cc,Automatic,Not Certified,Customer,57409
+Suzuki Bolan  2005 VX,PKR 7 lacs,700000,Karachi,2005,"20,000km",Petrol,800cc,Manual,Not Certified,Customer,20000
+Toyota Aqua  2013 S,PKR 34.5 lacs,3450000,Karachi,2013,"123,456km",Hybrid,1500cc,Automatic,Not Certified,Customer,123456
+Suzuki Swift  2011 ,PKR 18 lacs,1800000,Talagang,2011,"121,348km",Petrol,1300cc,Manual,Not Certified,Customer,121348
+Suzuki Wagon R  2015 VXL,PKR 17.95 lacs,1795000,Jhang,2015,"123,456km",Petrol,1000cc,Manual,Not Certified,Customer,123456
+Toyota Pixis Epoch  2012 D,PKR 19.9 lacs,1989999,Islamabad,2012,"185,000km",Petrol,660cc,Automatic,Not Certified,Customer,185000
+Suzuki Baleno  2005 JXR,PKR 12.25 lacs,1225000,Islamabad,2005,"165,000km",Petrol,1300cc,Manual,Not Certified,Customer,165000
+Toyota Corolla  2017 Altis Automatic 1.6,PKR 49.3 lacs,4930000,Islamabad,2017,"82,000km",Petrol,1600cc,Automatic,Not Certified,Customer,82000
+Suzuki Bolan  2013 Cargo Van Euro ll,PKR 8.5 lacs,850000,Karachi,2013,"11,111km",Petrol,800cc,Manual,Not Certified,Customer,11111
+Toyota Corolla  2018 Altis Automatic 1.6,PKR 43.25 lacs,4325000,Karachi,2018,"65,000km",Petrol,1600cc,Automatic,Not Certified,Customer,65000
+Suzuki Khyber  1998 Limited Edition,PKR 5.2 lacs,520000,Kohat,1998,"1,234km",Petrol,1000cc,Manual,Not Certified,Customer,1234
+Suzuki Wagon R  2017 VXL,PKR 21 lacs,2100000,Faisalabad,2017,"123,456km",Petrol,1000cc,Manual,Not Certified,Customer,123456
+Suzuki Wagon R  2016 VXL,PKR 21.5 lacs,2150000,Narowal,2016,"190,000km",Petrol,1000cc,Manual,Not Certified,Customer,190000
+Toyota Corolla  2013 Altis SR 1.6,PKR 35 lacs,3500000,Islamabad,2013,"158,000km",Petrol,1600cc,Manual,Not Certified,Customer,158000
+Honda Civic Rebirth 2013 VTi Oriel Prosmatec 1.8 i-VTEC,PKR 33.8 lacs,3379999,Lahore,2013,"130,000km",Petrol,1800cc,Automatic,Not Certified,Customer,130000
+MG HS  2021 1.5 Turbo,PKR 63 lacs,6300000,Lahore,2021,"25,800km",Petrol,1500cc,Automatic,Not Certified,Customer,25800
+Suzuki Hustler  2015 G,PKR 25.5 lacs,2550000,Islamabad,2015,"129,523km",Petrol,660cc,Automatic,Not Certified,Customer,129523
+Suzuki Mehran  2014 VXR Euro II,PKR 9.95 lacs,994999,Rawalpindi,2014,"136,000km",Petrol,800cc,Manual,Not Certified,Customer,136000
+Toyota Aqua  2014 S,PKR 36.6 lacs,3660000,Burewala,2014,"161,000km",Hybrid,1500cc,Automatic,Not Certified,Customer,161000
+Toyota Corolla  2012 XLi VVTi,PKR 25 lacs,2500000,Lahore,2012,"161,042km",Petrol,1300cc,Manual,Not Certified,PakWheels,161042
+Suzuki Mehran  2018 VXR Euro II,PKR 16 lacs,1600000,Karachi,2018,"25,700km",Petrol,800cc,Manual,Not Certified,Customer,25700
+Suzuki Cultus  2001 VXR,PKR 6 lacs,600000,Karachi,2001,"150,000km",Petrol,1000cc,Manual,Not Certified,Customer,150000
+Toyota Yaris  2020 ATIV MT 1.3,PKR 38.5 lacs,3850000,Lahore,2020,"69,000km",Petrol,1300cc,Manual,Not Certified,Customer,69000
+United Bravo  2021 Base Grade ,PKR 11.8 lacs,1180000,Sargodha,2021,"22,000km",Petrol,800cc,Manual,Not Certified,Customer,22000
+Honda City  2009 1.3 i-VTEC Prosmatec,PKR 27 lacs,2700000,Faisalabad,2009,"155,000km",Petrol,1300cc,Automatic,Not Certified,Customer,155000
+Suzuki Cultus  2020 VXL,PKR 33 lacs,3300000,Lahore,2020,"34,890km",Petrol,1000cc,Manual,Not Certified,PakWheels,34890
+Honda City 5th (GM2) Generation 2017 1.3 i-VTEC,PKR 33.5 lacs,3350000,Chakwal,2017,"106,000km",Petrol,1300cc,Manual,Not Certified,Customer,106000
+Daihatsu Mira  2016 ES,PKR 25.75 lacs,2575000,Islamabad,2016,"176,000km",Petrol,660cc,Automatic,Not Certified,Customer,176000
+Toyota Corolla  2013 GLi 1.3 VVTi,PKR 33.45 lacs,3345000,Peshawar,2013,"115,000km",Petrol,1300cc,Manual,Not Certified,Customer,115000
+Suzuki Alto  2021 VXR,PKR 23 lacs,2300000,Faisalabad,2021,"24,528km",Petrol,660cc,Manual,Not Certified,PakWheels,24528
+Toyota Corolla  2015 GLi Automatic 1.3 VVTi,PKR 36.5 lacs,3650000,Lahore,2015,"167,466km",Petrol,1300cc,Automatic,Not Certified,PakWheels,167466
+Daihatsu Mira  2014 ,PKR 19.5 lacs,1950000,Lahore,2014,"102,000km",Petrol,660cc,Automatic,Not Certified,Customer,102000
+Honda City  2022 1.2L CVT,PKR 43.5 lacs,4350000,Lahore,2022,"25,000km",Petrol,1200cc,Automatic,Not Certified,Customer,25000
+Toyota Belta  2007 X 1.0,PKR 22 lacs,2200000,Rawalpindi,2007,"143,000km",Petrol,1000cc,Automatic,Not Certified,Customer,143000
+Suzuki Mehran  2018 VXR Euro II,PKR 13 lacs,1300000,Gujranwala,2018,"42,000km",Petrol,800cc,Manual,Not Certified,Customer,42000
+Toyota Corolla  2016 GLi Automatic 1.3 VVTi,PKR 35.7 lacs,3570000,Lahore,2016,"82,000km",Petrol,1300cc,Automatic,Not Certified,Customer,82000

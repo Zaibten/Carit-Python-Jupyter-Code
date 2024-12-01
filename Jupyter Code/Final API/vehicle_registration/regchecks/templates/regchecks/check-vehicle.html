@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Check Vehicle</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+
+        .container {
+            max-width: 1200px; /* Increased width */
+            margin-top: 50px;
+            padding: 30px; /* Increased padding */
+            border-radius: 10px;
+            box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+            background-color: #fff;
+            transition: transform 0.3s;
+        }
+        .loader {
+            display: none;
+            position: fixed;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 9999;
+        }
+
+        /* Loader animation */
+        .loader img {
+            width: 100px;
+            height: 100px;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .form-group {
+            margin-bottom: 1.5rem;
+        }
+
+        .btn-primary {
+            background-color: #007bff;
+            border-color: #007bff;
+            transition: background-color 0.3s, transform 0.2s;
+        }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #0056b3;
+            transform: translateY(-2px); /* Lift effect */
+        }
+
+        .text-danger {
+            font-weight: bold;
+        }
+
+        h1 {
+            font-size: 1.8rem;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            font-size: 1.5rem;
+            margin-top: 20px;
+        }
+    </style>
+    <script>
+        // Show loader on form submission
+        function showLoader() {
+            document.getElementById('loader').style.display = 'block';
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center">Carit Vehicle Information</h1>
+        <form method="POST" action="{% url 'check_vehicle' %}" onsubmit="showLoader()">
+            {% csrf_token %}
+            <div class="form-group">
+                <label for="registration_number">Registration Number:</label>
+                <input type="text" class="form-control" name="registration_number" placeholder="Enter Registration Number" required>
+            </div>
+            <div class="form-group">
+                <label for="states">State:</label>
+                <select class="form-control" name="states" required>
+                    <option value="" disabled selected>Select State</option>
+                    <option value="PB">Punjab</option>
+                    <option value="SD">Sindh</option>
+                    <option value="KP">Khyber Pakhtunkhwa</option>
+                    <option value="GB">Gilgit Baltistan</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="district">District:</label>
+                <input type="text" class="form-control" name="district" placeholder="Enter District" required>
+            </div>
+            <button type="submit" class="btn btn-primary btn-block">Check</button>
+        </form>
+
+        {% if error_message %}
+            <p class="text-danger text-center mt-3">{{ error_message }}</p>
+        {% endif %}
+
+        {% if vehicle_info %}
+        <h2 class="mt-5">Vehicle Information</h2>
+        <ul class="list-group">
+            <li class="list-group-item"><strong>Description:</strong> {{ vehicle_info.Description }}</li>
+            <li class="list-group-item"><strong>Make:</strong> {{ vehicle_info.CarMake.CurrentTextValue }}</li>
+            <li class="list-group-item"><strong>Model:</strong> {{ vehicle_info.CarModel.CurrentTextValue }}</li> <!-- Updated line -->
+            <li class="list-group-item"><strong>Registration Date:</strong> {{ vehicle_info.RegistrationDate }}</li>
+            <li class="list-group-item"><strong>Engine Number:</strong> {{ vehicle_info.EngineNumber }}</li>
+            <li class="list-group-item"><strong>Body Type:</strong> {{ vehicle_info.BodyType }}</li>
+            <li class="list-group-item"><strong>Owner:</strong> {{ vehicle_info.Owner }}</li>
+            <li class="list-group-item"><strong>CPLC:</strong> {{ vehicle_info.CPLC }}</li>
+            <li class="list-group-item"><strong>Seats:</strong> {{ vehicle_info.Seats }}</li>
+            <li class="list-group-item"><strong>Horse Power:</strong> {{ vehicle_info.HP }}</li>
+        </ul>
+        <img src="{{ vehicle_info.Image }}" alt="Vehicle Image" class="img-fluid mt-3">
+    {% endif %}
+    
+        
+        <!-- Loader -->
+        <div id="loader" class="loader">
+            <img src="https://i.gifer.com/4V0b.gif" alt="Loading..." />
+        </div>
+    </div>
+
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

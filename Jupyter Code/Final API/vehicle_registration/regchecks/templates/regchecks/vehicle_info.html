@@ -1,0 +1,66 @@
+import requests
+import xml.etree.ElementTree as ET
+import json
+import pandas as pd
+from django.shortcuts import render
+from django.http import JsonResponse
+
+def check_vehicle(request):
+    if request.method == 'POST':
+        # Get the registration number from the form
+        registration_number = request.POST.get('registration_number')
+
+        # Define the SOAP endpoint URL and headers
+        url = "http://www.regcheck.org.uk/api/reg.asmx"
+        headers = {
+            "Content-Type": "text/xml; charset=utf-8",
+            "SOAPAction": "http://regcheck.org.uk/CheckPakistan",
+        }
+
+        # Define the SOAP body with user input
+        soap_body = f"""<?xml version="1.0" encoding="utf-8"?>
+        <soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+          <soap:Body>
+            <CheckPakistan xmlns="http://regcheck.org.uk">
+              <RegistrationNumber>{registration_number}</RegistrationNumber>
+              <state>SD</state>
+              <district>Karachi</district>
+              <username>testcarit</username>
+            </CheckPakistan>
+          </soap:Body>
+        </soap:Envelope>"""
+
+        # Send the SOAP request
+        response = requests.post(url, data=soap_body, headers=headers)
+
+        # Check if the request was successful
+        if response.status_code == 200:
+            # Parse the XML response
+            root = ET.fromstring(response.content)
+            response_dict = {}
+            for elem in root.iter():
+                if elem.tag not in response_dict:
+                    response_dict[elem.tag] = elem.text
+
+            # Extract CheckPakistanResult
+            check_pakistan_result = response_dict.get('{http://regcheck.org.uk}CheckPakistanResult')
+
+            if check_pakistan_result:
+                # Load the vehicle JSON data
+                response_json = json.loads(check_pakistan_result)
+                extended_data = response_json.get("Extended", [])
+
+                # Convert data to DataFrame for tabular display
+                df = pd.DataFrame(extended_data)
+
+                # Convert DataFrame to HTML
+                vehicle_info_html = df.to_html(index=False, classes='table table-striped')
+
+                return JsonResponse({'vehicle_info': vehicle_info_html})
+
+            else:
+                return JsonResponse({"error": "CheckPakistanResult not found"}, status=400)
+        else:
+            return JsonResponse({"error": "Failed to retrieve data"}, status=response.status_code)
+
+    return render(request, 'regchecks/check_vehicle.html')
