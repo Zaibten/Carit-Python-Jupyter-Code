@@ -14,12 +14,10 @@
 5.	📂 Secure SQL Database to manage and store your data effectively
 
 # 🌐 Why Carit?
-It’s a one-stop solution for car enthusiasts, dealers, and owners! Whether you're buying, selling, or verifying vehicles, Carit makes the process easy, accurate, and transparent.
-
-# ✨ Your journey towards smarter car management starts here.
-# 💡 Let me know your thoughts or reach out for a demo. Ready to take the wheel? 🚗💨
-
-# 📲 For the complete project or any inquiries, contact me on WhatsApp: +92 336 3506933
+1.	🌟 It’s a one-stop solution for car enthusiasts, dealers, and owners! Whether you're buying, selling, or verifying vehicles, Carit makes the process easy, accurate, and transparent.
+2.	✨ Your journey towards smarter car management starts here.
+3.	💡 Let me know your thoughts or reach out for a demo. Ready to take the wheel? 🚗💨
+4.	📲 For the complete project or any inquiries, contact me on WhatsApp: +92 336 3506933
 
 # 📸 Some Screenshots of the Project 🖼️✨
 ![1](https://github.com/user-attachments/assets/640f131d-e2b9-4796-9796-ff90c953964f)
