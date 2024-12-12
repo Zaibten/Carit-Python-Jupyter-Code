@@ -18,5 +18,5 @@
 2.	✨ Your journey towards smarter car management starts here.
 3.	💡 Let me know your thoughts or reach out for a demo. Ready to take the wheel? 🚗💨
 4.	📲 For the complete project or any inquiries, contact me on WhatsApp: +92 336 3506933
-5.	
+
 #WebDevelopment #CarManagement #MachineLearning #DeepLearning #Python #Django #Innovation
