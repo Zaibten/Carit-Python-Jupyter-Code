@@ -20,3 +20,10 @@
 4.	📲 For the complete project or any inquiries, contact me on WhatsApp: +92 3363506933
 
 #WebDevelopment #CarManagement #MachineLearning #DeepLearning #Python #Django #Innovation
+
+# 📸 Some Screenshots of the Project 🖼️✨
+![26](https://github.com/user-attachments/assets/58dc1b40-56be-4d64-b219-fec651ea790a)
+![27](https://github.com/user-attachments/assets/23aacaad-97ff-41fa-a14c-64447aa58ff2)
+
+
+
